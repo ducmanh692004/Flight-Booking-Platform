@@ -1,0 +1,784 @@
+[{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575df1"
+  },
+  "name": "Login",
+  "url": "/user/login",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575df0"
+  },
+  "name": "Fetch Seat Class",
+  "url": "/user/seatClass/fetchData",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575df2"
+  },
+  "name": "Register",
+  "url": "/user/register",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575dee"
+  },
+  "name": "Auth Google",
+  "url": "/user/authentication-google",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575def"
+  },
+  "name": "Auth Facebook",
+  "url": "/user/authentication-facebook",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575df3"
+  },
+  "name": "Refresh Token",
+  "url": "/getNewAccessToken",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575df4"
+  },
+  "name": "Fetch Flights",
+  "url": "/user/flight/fetchData",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575df7"
+  },
+  "name": "Get Cabin Info",
+  "url": "/user/cabin/takeCabinInformation",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575df8"
+  },
+  "name": "Test Query Update Cabin",
+  "url": "/user/test/testQueryUpdateCabin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575df9"
+  },
+  "name": "Paypal Payment",
+  "url": "/user/payment/Paypal-Payment",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575dfa"
+  },
+  "name": "Create Order",
+  "url": "/user/order/createOrder",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575dfb"
+  },
+  "name": "Check Seat Availability",
+  "url": "/user/flight/checkSeatHaveEnough",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575dfc"
+  },
+  "name": "Paypal Webhook",
+  "url": "/user/payment/paypal-webhook",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575dfd"
+  },
+  "name": "Get PayPal Client Token",
+  "url": "/user/payment/get-client-token",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575dfe"
+  },
+  "name": "Create VNPay Order",
+  "url": "/user/order/create-vnpay-order",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575dff"
+  },
+  "name": "Check VNPay Payment",
+  "url": "/user/order/check-payment-vnpay",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e00"
+  },
+  "name": "Create VNPay Order Data",
+  "url": "/user/order/create-order-data-vnpay",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e01"
+  },
+  "name": "Use Coupon",
+  "url": "/user/coupon/use-coupon",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e02"
+  },
+  "name": "Get All Coupons",
+  "url": "/user/coupon/get-all",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e03"
+  },
+  "name": "View All Orders",
+  "url": "/user/order/view-all-order",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e04"
+  },
+  "name": "Get Order Info",
+  "url": "/user/get-order-information",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e05"
+  },
+  "name": "Cancel Order",
+  "url": "/user/order/cancel-order",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e06"
+  },
+  "name": "Refund Money",
+  "url": "/user/order/refund-order",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e07"
+  },
+  "name": "Get Refund Orders",
+  "url": "/user/order/get-refund-orders",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575df5"
+  },
+  "name": "Search Flight Suggestions",
+  "url": "/user/flight/searchSuggestion",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575df6"
+  },
+  "name": "Get Flight Data for Order",
+  "url": "/user/flight/getFlightDataForConfirmOrder",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e0a"
+  },
+  "name": "Update Password",
+  "url": "/user/update-password",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e0b"
+  },
+  "name": "Update Account Info",
+  "url": "/user/update-account-information",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e0c"
+  },
+  "name": "Send Email Reset Password",
+  "url": "/user/send-email-reset-password",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e0d"
+  },
+  "name": "Confirm OTP Forget Password",
+  "url": "/user/confirm-otp-forget-password",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e0e"
+  },
+  "name": "Confirm OTP Forget Password (no slash)",
+  "url": "user/confirm-otp-forget-password",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e0f"
+  },
+  "name": "Insert New Password OTP",
+  "url": "/user/insert-new-password-otp",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e10"
+  },
+  "name": "Confirm OTP Register Account",
+  "url": "/user/confirm-otp-register-account",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e11"
+  },
+  "name": "Admin - Get Users Info",
+  "url": "/admin/get-users-information",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e12"
+  },
+  "name": "Admin - Update User Info",
+  "url": "/admin/update-user-information",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e13"
+  },
+  "name": "Admin - Delete User",
+  "url": "/admin/delete-user",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e14"
+  },
+  "name": "Admin - Get All Groups",
+  "url": "/admin/get-all-group",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e15"
+  },
+  "name": "Admin - Create New User",
+  "url": "/admin/create-new-user",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e16"
+  },
+  "name": "Admin - Get All Airlines",
+  "url": "/admin/get-all-airline",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e17"
+  },
+  "name": "Admin - Create Airline",
+  "url": "/admin/create-new-airline",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e18"
+  },
+  "name": "Admin - Update Airline",
+  "url": "/admin/update-airline",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e19"
+  },
+  "name": "Admin - Delete Airline",
+  "url": "/admin/delete-airline",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e1a"
+  },
+  "name": "Admin - Get All Airports",
+  "url": "/admin/get-all-airport",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e1b"
+  },
+  "name": "Admin - Create Airport",
+  "url": "/admin/create-new-airport",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e1c"
+  },
+  "name": "Admin - Update Airport",
+  "url": "/admin/update-airport",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e1d"
+  },
+  "name": "Admin - Delete Airport",
+  "url": "/admin/delete-airport",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e1e"
+  },
+  "name": "Admin - Get All Coupons",
+  "url": "/admin/get-all-coupon",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e1f"
+  },
+  "name": "Admin - Create Coupon",
+  "url": "/admin/create-new-coupon",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e20"
+  },
+  "name": "Admin - Update Coupon",
+  "url": "/admin/update-coupon",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e21"
+  },
+  "name": "Admin - Delete Coupon",
+  "url": "/admin/delete-coupon",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e22"
+  },
+  "name": "Admin - Get All Seat Classes",
+  "url": "/admin/get-all-seat-class",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e23"
+  },
+  "name": "Admin - Create Seat Class",
+  "url": "/admin/create-new-seat-class",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e24"
+  },
+  "name": "Admin - Update Seat Class",
+  "url": "/admin/update-seat-class",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e25"
+  },
+  "name": "Admin - Delete Seat Class",
+  "url": "/admin/delete-seat-class",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e08"
+  },
+  "name": "Check Have Password",
+  "url": "/user/check-have-password",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e27"
+  },
+  "name": "Admin - Delete Order",
+  "url": "/admin/delete-order",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e28"
+  },
+  "name": "Admin - Get All Flights",
+  "url": "/admin/get-all-flight",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e29"
+  },
+  "name": "Admin - Get Flight Details",
+  "url": "/admin/get-detail-flight",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e09"
+  },
+  "name": "Add Password",
+  "url": "/user/add-password",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e2b"
+  },
+  "name": "Admin - Get Flight Data to Update",
+  "url": "/admin/get-flight-data-to-update",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e2c"
+  },
+  "name": "Admin - Update Flight",
+  "url": "/admin/update-flight",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e2d"
+  },
+  "name": "Admin - Delete Flight",
+  "url": "/admin/delete-flight",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e2e"
+  },
+  "name": "Admin - Search Destination Suggestion",
+  "url": "/admin/search-destination-suggestion",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e2f"
+  },
+  "name": "Admin - Search Airline Suggestion",
+  "url": "/admin/search-airline-suggestion",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e30"
+  },
+  "name": "Admin - Get All Seat Classes (alt)",
+  "url": "/admin/get-all-seatClass",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e31"
+  },
+  "name": "Admin - Get All Utils",
+  "url": "/admin/get-all-utils",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e32"
+  },
+  "name": "Admin - Get Refund Requests",
+  "url": "/admin/get-refund-requests",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e33"
+  },
+  "name": "Admin - Process Refund",
+  "url": "/admin/process-refund",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e34"
+  },
+  "name": "Admin - Create Group",
+  "url": "/admin/create-new-group",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e35"
+  },
+  "name": "Admin - Update Group",
+  "url": "/admin/update-group",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e36"
+  },
+  "name": "Admin - Delete Group",
+  "url": "/admin/delete-group",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e37"
+  },
+  "name": "Admin - Get All Roles",
+  "url": "/admin/get-all-role",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e38"
+  },
+  "name": "Admin - Create Role",
+  "url": "/admin/create-new-role",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e39"
+  },
+  "name": "Admin - Update Role",
+  "url": "/admin/update-role",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e3a"
+  },
+  "name": "Admin - Delete Role",
+  "url": "/admin/delete-role",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e3b"
+  },
+  "name": "Admin - Update Role of Group",
+  "url": "/admin/update-role-of-group",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e26"
+  },
+  "name": "Admin - Get All Orders",
+  "url": "/admin/get-all-order",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887366fe5d1f50ddc575e2a"
+  },
+  "name": "Admin - Create Flight",
+  "url": "/admin/create-new-flight",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887a904e149b39647e63278"
+  },
+  "name": "Admin - Create new group",
+  "url": "/admin/create-new-group",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887a917e149b39647e6327c"
+  },
+  "name": "Admin - Update group information",
+  "url": "/admin/update-group",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887a92fe149b39647e63280"
+  },
+  "name": "Admin - Delete group",
+  "url": "/admin/delete-group",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887a94de149b39647e63284"
+  },
+  "name": "Admin - get all group",
+  "url": "/admin/get-all-role",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887a96ae149b39647e63288"
+  },
+  "name": "Admin - Get all role of group",
+  "url": "/admin/get-all-role-of-group",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887a97ae149b39647e6328c"
+  },
+  "name": "Admin - Create new role",
+  "url": "/admin/create-new-role",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887a995e149b39647e63290"
+  },
+  "name": "Admin - Update role information",
+  "url": "/admin/update-role",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887a9a6e149b39647e63294"
+  },
+  "name": "Admin - Delete role",
+  "url": "/admin/delete-role",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887a9c0e149b39647e63298"
+  },
+  "name": "Admin - Update role of group",
+  "url": "/admin/update-role-of-group",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887e9ef14f8e441b18e30b0"
+  },
+  "name": "Logout from app",
+  "url": "/logout",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887eb05a1889c253a350087"
+  },
+  "name": "user async data of cart with guest role",
+  "url": "/user/cart/asyncCartData",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887eb2aa1889c253a35008c"
+  },
+  "name": "user add item to cart",
+  "url": "/user/cart/addCartItem",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887eb42a1889c253a350095"
+  },
+  "name": "user delete item in cart",
+  "url": "/user/cart/deleteCartItem",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6889a3a09f08848a9a8ade27"
+  },
+  "name": "User create paypal order by send api to paypal",
+  "url": "/user/order/create-paypal-order",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6889a58c9f08848a9a8adf1a"
+  },
+  "name": "user update status of order",
+  "url": "/user/order/update-order-status",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6889f9d4498280b56483a7fa"
+  },
+  "name": "Admin view all support of user",
+  "url": "/admin/get-all-support",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6889fa13498280b56483a807"
+  },
+  "name": "User send support to admin",
+  "url": "/user/create-support",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a059ddf64869b76b736e8"
+  },
+  "name": "admin delete support in system",
+  "url": "/admin/delete-support",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a0ffadf64869b76b737b9"
+  },
+  "name": "Admin view revenue of system",
+  "url": "/admin/get-information-of-revenue",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688af3f51703cac24cf7a981"
+  },
+  "name": "admin ignore refund money for client",
+  "url": "/admin/ignore-refund",
+  "__v": 0
+}]

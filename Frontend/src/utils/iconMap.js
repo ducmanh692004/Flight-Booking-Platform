@@ -1,0 +1,46 @@
+import {
+    FaWifi,
+    FaUtensils,
+    FaTv,
+    FaPlug,
+    FaChair,
+    FaSuitcaseRolling,
+    FaCrown,
+    FaMugHot,
+    FaGlassMartiniAlt,
+    FaHeadphonesAlt,
+    FaBed,
+} from 'react-icons/fa';
+import {
+    MdAirlineSeatReclineExtra,
+    MdBathroom,
+    MdCurtains,
+    MdTouchApp,
+    MdSupportAgent,
+    MdBluetooth,
+    MdTableRestaurant,
+} from 'react-icons/md';
+import { IoIosWine } from 'react-icons/io';
+
+export const ICON_BY_NAME = {
+    'Wifi miễn phí': FaWifi,
+    'Suất ăn miễn phí': FaUtensils,
+    'Giải trí trên máy bay': FaTv,
+    'Cổng sạc thiết bị': FaPlug,
+    'Ghế ngả lưng thoải mái': MdAirlineSeatReclineExtra,
+    'Hành lý ký gửi miễn phí': FaSuitcaseRolling,
+    'Ưu tiên lên máy bay': FaCrown,
+    'Sảnh chờ VIP': MdTableRestaurant,
+    'Khăn nóng': FaMugHot,
+    'Đồ uống miễn phí': IoIosWine,
+    'Tai nghe chống ồn': FaHeadphonesAlt,
+    'Chăn và gối': FaBed,
+    'Kết nối Bluetooth': MdBluetooth,
+    'TV cá nhân': FaTv,
+    'Khay bàn ăn riêng': MdTableRestaurant,
+    'Rèm che ánh sáng': MdCurtains,
+    'Phòng tắm riêng': MdBathroom,
+    'Giường nằm': FaBed,
+    'Dịch vụ gọi tiếp viên': MdSupportAgent,
+    'Màn hình cảm ứng': MdTouchApp,
+};

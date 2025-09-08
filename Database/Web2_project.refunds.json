@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "688baa89008c9937254029c0"
+  },
+  "orderId": {
+    "$oid": "688ba00f08bd24e9d3de4e71"
+  },
+  "userId": {
+    "$oid": "688ae0eab6340330eee6f733"
+  },
+  "reason": "Thay đổi kế hoạch cá nhân",
+  "note": "",
+  "refundMoney": {
+    "$numberDecimal": "3670015"
+  },
+  "status": "Đã hoàn tiền",
+  "createdAt": {
+    "$date": "2025-07-31T17:40:25.081Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688baaa2008c9937254029d3"
+  },
+  "orderId": {
+    "$oid": "688ba369ddde36baf0410c94"
+  },
+  "userId": {
+    "$oid": "688ae0eab6340330eee6f733"
+  },
+  "reason": "Lỗi khi đặt vé (chọn sai ngày, sai chuyến bay...)",
+  "note": "visa-123456",
+  "refundMoney": {
+    "$numberDecimal": "753497.36"
+  },
+  "status": "Đang chờ hoàn tiền",
+  "createdAt": {
+    "$date": "2025-07-31T17:40:50.978Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688baab9008c9937254029fe"
+  },
+  "orderId": {
+    "$oid": "688ba9d2008c993725402863"
+  },
+  "userId": {
+    "$oid": "688ae0eab6340330eee6f733"
+  },
+  "reason": "Lỗi khi đặt vé (chọn sai ngày, sai chuyến bay...)",
+  "note": "banking-123",
+  "refundMoney": {
+    "$numberDecimal": "3670015"
+  },
+  "status": "Đang chờ hoàn tiền",
+  "createdAt": {
+    "$date": "2025-07-31T17:41:13.572Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688baabf008c993725402a17"
+  },
+  "orderId": {
+    "$oid": "688baa22008c9937254028b4"
+  },
+  "userId": {
+    "$oid": "688ae0eab6340330eee6f733"
+  },
+  "reason": "Lý do sức khỏe/y tế",
+  "note": "",
+  "refundMoney": {
+    "$numberDecimal": "5361904.0600000005"
+  },
+  "status": "Đã hoàn tiền",
+  "createdAt": {
+    "$date": "2025-07-31T17:41:19.192Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688baac6008c993725402a27"
+  },
+  "orderId": {
+    "$oid": "688ba3a1ddde36baf0410d02"
+  },
+  "userId": {
+    "$oid": "688ae0eab6340330eee6f733"
+  },
+  "reason": "Thay đổi kế hoạch cá nhân",
+  "note": "",
+  "refundMoney": {
+    "$numberDecimal": "3670015"
+  },
+  "status": "Đã hoàn tiền",
+  "createdAt": {
+    "$date": "2025-07-31T17:41:26.479Z"
+  },
+  "__v": 0
+}]

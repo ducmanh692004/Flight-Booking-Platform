@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "6887c2accafc139015bb9057"
+  },
+  "uid": "Kd16UglxwXNbeLsnvZYr12upwth2",
+  "fullname": "anonymous s",
+  "email": "anonymousgreenwich2025@gmail.com",
+  "groupId": {
+    "$oid": "6848a4b73d092ce61d7bb408"
+  },
+  "image": "https://lh3.googleusercontent.com/a/ACg8ocInUjrGiCYoQ5oZ_f3E-x4CzNTI016RxpzdEC_Z_H7Uv1K6bQ=s96-c",
+  "provider": "google",
+  "providerId": "Kd16UglxwXNbeLsnvZYr12upwth2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688ae0eab6340330eee6f733"
+  },
+  "uid": "U8NURmG8E1fV69yivMuszP1pGaj2",
+  "fullname": "Ta Duc Manh (FGW HN)",
+  "email": "manhtdgch220180@fpt.edu.vn",
+  "groupId": {
+    "$oid": "6848a4b73d092ce61d7bb409"
+  },
+  "image": "https://lh3.googleusercontent.com/a/ACg8ocKMo3wqmxyMBj1XdGNtKF4TWwWMFVkrSmhPVusHAzJ91pzbKeI=s96-c",
+  "provider": "google",
+  "providerId": "U8NURmG8E1fV69yivMuszP1pGaj2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688aec18929281183a3aede6"
+  },
+  "uid": "LnwShg5ylhUeWnXp9Gf9Zdm27XB3",
+  "fullname": "Tạ Mạnh",
+  "email": "manhanh0609@gmail.com",
+  "groupId": {
+    "$oid": "6848a4b73d092ce61d7bb409"
+  },
+  "image": "https://lh3.googleusercontent.com/a/ACg8ocI80A9_JiVb3F4drYjSGnbhrb6sVBHdHcKcqSWlHPoRiATV4g=s96-c",
+  "provider": "google",
+  "providerId": "LnwShg5ylhUeWnXp9Gf9Zdm27XB3",
+  "__v": 0,
+  "password": "$2a$10$Gs9pGKYmQe75ChR.CImlCecMVsy58TQZYbmMSZhazZ12YQjdgv8Ve"
+},
+{
+  "_id": {
+    "$oid": "688d6c42ff25c4e8253821c9"
+  },
+  "fullname": "manhducta",
+  "email": "manhducta4@gmail.com",
+  "password": "$2a$10$Gs9pGKYmQe75ChR.CImlCecMVsy58TQZYbmMSZhazZ12YQjdgv8Ve",
+  "groupId": {
+    "$oid": "6848a4b73d092ce61d7bb409"
+  },
+  "__v": 0
+}]

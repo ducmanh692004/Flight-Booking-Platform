@@ -1,0 +1,77 @@
+.search-block{
+    position: relative;
+    z-index: 1;
+    .title-block{
+        h2{
+            font-weight: 700;
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+            color: white;
+        }    
+        h4{
+            font-weight: 500;
+            color: white;
+            margin-bottom: 20px;
+        }
+    }
+
+
+
+    .first-block{
+
+        .btn{
+            height: 25px;
+            display: flex;
+            justify-content: centers;
+            align-items: center;
+            border-radius: 15px;
+            width: fit-content;
+            color: white;
+            border: 2px solid white;
+            // background-color: rgba(255, 255, 255, 0.2);
+        }
+
+        .custom-btn{
+            background-color: rgba(255, 255, 255, 0.2);
+        }
+
+        .icon-people, .lbl-people, .icon-quantity, .quantity{
+            color: black !important;
+        }
+
+        .icon-quantity{
+            font-size: 12px;
+        }
+
+        .dropdown-item:hover{
+            background-color: white;
+        }
+        .icon-quantity{
+            cursor: pointer;
+        }
+        .icon-quantity:hover{
+            // background-color: aqua;
+            border-radius: 5px;
+            // color: white;
+            background-color: aqua;
+        }
+    }
+
+
+    // .container-search{
+    //     .custom-dropdown-modal .modal-dialog {
+    //         position: static !important;
+    //         margin: 0 !important;
+    //         max-width: none !important;
+    //         width: 100% !important;
+    //         transform: none !important;
+    //     }
+
+    //     .custom-dropdown-modal .modal-content {
+    //         border: none !important;
+    //         border-radius: 0 !important;
+    //         box-shadow: none !important;
+    //         background: transparent !important;
+    //     }
+
+    // }
+}

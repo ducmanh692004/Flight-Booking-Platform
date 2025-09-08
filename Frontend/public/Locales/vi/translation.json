@@ -1,0 +1,1572 @@
+{
+  "changeLanguage": {
+    "vi": "Việt Nam",
+    "en": "English"
+  },
+    "header": {
+    "support": "Hỗ trợ",
+    "myBookings": "Đặt chỗ của tôi",
+    "login": "Đăng nhập",
+    "register": "Đăng ký",
+    "flightTickets": "Vé máy bay",
+    "airlines": "Hãng hàng không",
+    "coupons": "Mã giảm giá",
+    "airports": "Sân bay"
+  },
+  "personalInfo": {
+    "title": "Thông tin cá nhân",
+    "fullName": "Họ và tên",
+    "email": "Email",
+    "phone": "Số điện thoại",
+    "birthDate": "Ngày sinh",
+    "gender": "Giới tính",
+    "address": "Địa chỉ",
+    "edit": "Chỉnh sửa",
+    "male": "Nam",
+    "female": "Nữ",
+    "other": "Khác",
+    "notUpdated": "Chưa cập nhật",
+    "invalid": "Không hợp lệ"
+  },
+  "passenger": {
+    "countryPhone": "VD: +84 901234567 trong đó (+84) là mã quốc gia",
+    "info": "Thông tin hành khách",
+    "adult": "Người lớn",
+    "child": "Trẻ em",
+    "title": "Danh xưng",
+    "lastName": "Họ",
+    "firstName": "Tên Đệm & Tên",
+    "birthDate": "Ngày sinh",
+    "nationality": "Quốc tịch",
+    "adultNote": "Hành khách người lớn (trên 12 tuổi)",
+    "childNote": "Hành khách trẻ em (dưới 12 tuổi)",
+    "adultCount": "Người lớn",
+    "childCount": "Trẻ em",
+    "adultAgeRequirement": "Người lớn phải từ 12 tuổi trở lên.",
+    "childAgeRequirement": "Trẻ em phải dưới 12 tuổi.",
+    "lastNameRequired": "Vui lòng nhập họ.",
+    "lastNameExample": "Họ (vd: Nguyen)",
+    "firstNameExample": "Tên Đệm & Tên (vd: Thi Ngoc Anh)",
+    "cccdExample": "như trên CMND (không dấu)",
+    "month": "Tháng" 
+  },
+  "introBrand": {
+    "whyBook": "Lý do nên đặt vé ở JetNow",
+    "easyBooking": "Dễ dàng đặt vé chỉ bằng vài cú nhấp chuột",
+    "easyBookingDesc": "Nền tảng cung cấp đa dạng các chuyến bay từ trong nước ra nước ngoài, giúp bạn có thể dễ dàng so sánh và tìm ra chuyến bay với giá tốt nhất",
+    "flexibleTime": "Thay đổi thời gian bay linh hoạt",
+    "flexibleTimeDesc": "Bạn có thể dễ dàng chọn và thay đổi thời gian bay một cách linh hoạt và phù hợp với lịch trình và công việc của bạn",
+    "easyPayment": "Thanh toán dễ dàng với nhiều tiện ích",
+    "easyPaymentDesc": "Thanh toán dễ dàng và đảm bảo an toàn cho người dùng với đa dạng hình thức thanh toán phổ biến"
+  },
+  "listCoupon": {
+    "earlyDiscount": "Mã giảm đến 500k khi đặt sớm",
+    "discountUpTo": "Giảm đến",
+    "minOrder": "Đơn tối thiểu từ",
+    "save": "Lưu"
+  },
+  "filter": {
+    "title": "Bộ lọc",
+    "reset": "Đặt lại",
+    "stopCount": "Số điểm dừng",
+    "nonStop": "Bay thẳng",
+    "oneStop": "1 điểm dừng",
+    "twoStop": "2+ transit",
+    "airlines": "Hãng hàng không",
+    "departureTime": "Giờ cất cánh",
+    "nightToMorning": "Đêm đến Sáng",
+    "morningToNoon": "Sáng đến Trưa",
+    "noonToEvening": "Trưa đến tối",
+    "eveningToNight": "Tối đến Đêm",
+    "arrivalTime": "Giờ hạ cánh"
+  },
+  "popularDestination": {
+    "title": "Các điểm đến phổ biến",
+    "domestic": "Trong nước",
+    "international": "Quốc tế",
+    "to": "đến"
+  },
+  "refund": {
+    "cancelAndRefund": "Hủy đơn và hoàn tiền",
+    "selectReason": "Vui lòng chọn lý do bạn muốn hoàn tiền. Yêu cầu sẽ được xem xét và xử lý dựa trên chính sách hoàn/hủy vé của đơn hàng.",
+    "orderId": "Mã đơn hàng:",
+    "reason": "Lý do hoàn tiền:",
+    "note": "Ghi chú thêm (tùy chọn):",
+    "vnpayAlert": "Vui lòng cung cấp thông tin tài khoản VNPay của bạn bên dưới để chúng tôi có thể hoàn tiền!",
+    "notePlaceholder": "Cung cấp thêm thông tin chi tiết để chúng tôi có thể hỗ trợ bạn tốt hơn...",
+    "reasonRequired": "Vui lòng chọn lý do hoàn tiền!",
+    "reasons": {
+      "changePlan": "Thay đổi kế hoạch cá nhân",
+      "health": "Lý do sức khỏe/y tế",
+      "work": "Lịch trình công tác thay đổi",
+      "bookingError": "Lỗi khi đặt vé (chọn sai ngày, sai chuyến bay...)",
+      "airlineChange": "Hãng hàng không thay đổi lịch bay",
+      "other": "Lý do khác (vui lòng ghi rõ bên dưới)"
+    }
+  },
+  "notFound": {
+    "sorry": "Xin lỗi, trang bạn đang tìm kiếm không tồn tại.",
+    "backHome": "Quay lại Trang chủ"
+  },
+  "searchOrder": {
+    "title": "Tra cứu đơn hàng",
+    "placeholder": "Nhập mã đơn hàng...",
+    "search": "Tìm kiếm",
+    "orderIdRequired": "Mã đơn hàng là bắt buộc để tìm kiếm thông tin!",
+    "support": "Nếu có bất kì yêu cầu hỗ trợ nào vui lòng gửi thông báo cho người bên kinh doanh tại đây"
+  },
+  "login": {
+    "emailPlaceholder": "Nhập email của bạn",
+    "passwordPlaceholder": "Nhập mật khẩu",
+    "rememberMe": "Ghi nhớ đăng nhập",
+    "forgotPassword": "Quên mật khẩu?",
+    "login": "Đăng nhập",
+    "or": "hoặc",
+    "noAccount": "Chưa có tài khoản?",
+    "registerNow": "Đăng ký ngay",
+    "emailRequired": "Email là bắt buộc",
+    "emailInvalid": "Email không hợp lệ",
+    "passwordRequired": "Mật khẩu là bắt buộc",
+    "passwordLength": "Mật khẩu phải có ít nhất 6 ký tự"
+  },
+  "account": {
+    "logout": "Đăng xuất",
+    "logoutConfirm": "Bạn có chắc muốn đăng xuất không?",
+    "personalInfo": "Thông tin cá nhân",
+    "orderHistory": "Lịch sử đơn hàng",
+    "searchOrder": "Tra cứu đơn hàng",
+    "orderRefund": "Đơn hàng hoàn",
+    "changePassword": "Đổi mật khẩu",
+    "confirm": "Xác nhận",
+    "cancel": "Hủy",
+    "accountInfo": "Thông Tin Tài Khoản Của Bạn",
+    "checkingAccount": "Đang kiểm tra trạng thái tài khoản...",
+    "noPassword": "Tài khoản hiện chưa có mật khẩu"
+  },
+  "payment": {
+    "title": "Thanh toán",
+    "paymentMethod": "Phương thức thanh toán",
+    "selectPaymentMethod": "Chọn phương thức thanh toán",
+    "creditCard": "Thẻ tín dụng",
+    "creditCardDesc": "Hỗ trợ thanh toán với Visa, Mastercard, JCB, UnionPay",
+    "vnpay": "VNPay",
+    "vnpayDesc": "Thanh toán qua ví điện tử VNPay",
+    "paypal": "PayPal",
+    "paypalDesc": "Thanh toán quốc tế qua PayPal",
+    "totalPayment": "Tổng thanh toán:",
+    "paymentSuccess": "🎉 Thanh toán thành công!",
+    "paymentVia": "Thanh toán qua:",
+    "viewOrderHistory": "Xem lịch sử đơn hàng",
+    "noOrdersToPay": "Hiện không có đơn hàng nào cần được chọn để thanh toán",
+    "backToHome": "Quay lại trang chủ",
+    "paymentStatus": {
+      "pending": "Chờ thanh toán",
+      "paid": "Đã thanh toán",
+      "success": "Thanh toán thành công!",
+      "cancelled": "Đã hủy"
+    },
+    "contactInfo": "Thông tin liên hệ (nhận vé/phiếu thanh toán)",
+    "continueToPayment": "Tiếp tục đến phần thanh toán",
+    "transactionCancelled": "Giao dịch đã bị hủy!",
+    "paymentError": "Lỗi xảy ra trong quá trình thanh toán!",
+    "totalSelectedSeats": "Tổng ghế đã chọn:",
+    "selectSeatDeparture": "Tổng ghế lượt đi:",
+    "selectSeatReturn": "Tổng ghế lượt về:",
+    "selectSeatClass": "Chọn hạng ghế phù hợp với nhu cầu",
+    "seatSelection": "Lựa chọn chỗ ngồi",
+    "booked": "Đã đặt",
+    "available": "Chưa được đặt",
+    "yourSeat": "Chỗ của bạn",
+    "normalSeat": "Ghế thường",
+    "windowSeat": "Ghế cửa sổ",
+    "select": "Chọn",
+    "chooseSeatProcess": "Tiến trình đặt chỗ",
+    "selectFlight": "Chọn chuyến bay",
+    "seatPosition": "Chọn ví trí chỗ ngồi",
+    "selectCoupon": "Mã giảm giá",
+    "selectCouponTitle": "Chọn mã giảm giá",
+    "selectCouponDesc": "Chọn mã giảm giá phù hợp để tiết kiệm chi phí cho chuyến bay",
+    "selectedCode": "Đã chọn:",
+    "selectCouponToSave": "Chọn mã giảm giá để tiết kiệm chi phí",
+    "maximumDiscount": "Giảm tối đa:",
+    "minimumOrderValue": "Đơn tối thiểu:",
+    "chooseSeatReason": "Đảm bảo chỗ ngồi của bạn ngay bây giờ để đảm bảo rằng bạn không ngồi riêng với bạn bè/gia đình..."
+  },
+  "order": {
+    "status": "Trạng thái",
+    "paymentMethod": "Phương thức thanh toán:",
+    "cancelOrder": "Hủy đơn hàng",
+    "cancelOrderConfirm": "Hủy đơn hàng và không thanh toán cho đơn này nữa?",
+    "cancelOrderTitle": "Hủy đơn",
+    "refundOrder": "Hủy đơn và hoàn tiền",
+    "payNow": "Thanh toán ngay",
+    "totalSeatPrice": "Tổng giá chọn chỗ:"
+  },
+  "formPayment": {
+    "email": "Email",
+    "emailPlaceholder": "Nhập email của bạn",
+    "emailExample": "VD: email@example.com",
+    "emailRequired": "Vui lòng nhập email.",
+    "emailInvalid": "Email không hợp lệ.",
+    "phone": "Số điện thoại",
+    "phoneRequired": "Vui lòng nhập số điện thoại.",
+    "phoneInvalid": "Số điện thoại không hợp lệ.",
+    "phoneVietnam": "Số điện thoại Việt Nam phải có 9 hoặc 10 chữ số.",
+    "phoneUK": "Số điện thoại UK phải có 10 hoặc 11 chữ số.",
+    "birthDateInvalid": "Ngày sinh không hợp lệ.",
+    "fullNameRequired": "Họ và tên không được để trống.",
+    "fullNamePlaceholder": "VD: Ta Duc Manh",
+    "lastNamePlaceholder": "VD: Ta",
+    "firstNamePlaceholder": "VD: Duc Manh",
+    "confirmPassword": "Xác nhận mật khẩu",
+    "confirmPasswordRequired": "Vui lòng xác nhận mật khẩu mới.",
+    "confirmPasswordMismatch": "Mật khẩu xác nhận không khớp.",
+    "confirmPasswordPlaceholder": "Nhập mật khẩu xác nhận",
+    "emailCannotChange": "Email không thể thay đổi.",
+    "saving": "Đang lưu...",
+    "searchAirline": "Tìm kiếm hãng hàng không...",
+    "searchDepartureAirport": "Tìm kiếm sân bay khởi hành...",
+    "searchArrivalAirport": "Tìm kiếm sân bay đến...",
+    "username": "Tên đăng nhập",
+    "usernamePlaceholder": "Nhập tên đăng nhập của bạn",
+    "usernameRequired": "Tên đăng nhập là bắt buộc",
+    "password": "Mật khẩu",
+    "passwordPlaceholder": "Nhập mật khẩu",
+    "passwordRequired": "Mật khẩu là bắt buộc",
+    "passwordMinLength": "Mật khẩu phải có ít nhất 6 ký tự",
+    "passwordMinLength8": "Mật khẩu phải có ít nhất 8 ký tự",
+    "currentPassword": "Mật khẩu hiện tại",
+    "currentPasswordRequired": "Vui lòng nhập mật khẩu hiện tại.",
+    "newPassword": "Mật khẩu mới",
+    "newPasswordRequired": "Vui lòng nhập mật khẩu mới.",
+    "newPasswordMinLength": "Mật khẩu mới phải có ít nhất 8 ký tự.",
+    "newPasswordDifferent": "Mật khẩu mới không được trùng với mật khẩu hiện tại.",
+    "updatePassword": "Cập nhật mật khẩu",
+    "checkingPassword": "Đang kiểm tra trạng thái mật khẩu...",
+    "selectGender": "Chọn giới tính",
+    "selectGroup": "Chọn nhóm",
+    "selectType": "Chọn loại",
+    "selectLayout": "Chọn layout",
+    "fillAllFields": "Vui lòng điền đầy đủ tất cả các trường và chọn ảnh.",
+    "selectImage": "Chọn một tệp ảnh cho tỉnh/thành phố.",
+    "selectNewImage": "Chọn một tệp ảnh mới cho tỉnh/thành phố. Để trống để giữ ảnh hiện tại.",
+    "selectLogo": "Chọn một tệp ảnh cho logo (định dạng PNG, JPG)",
+    "selectNewLogo": "Chọn một tệp ảnh mới cho logo (định dạng PNG, JPG)",
+    "selectLogoRequired": "Vui lòng chọn một ảnh logo cho hãng hàng không.",
+    "selectUserGroup": "Vui lòng chọn một nhóm cho người dùng.",
+    "noUserInfo": "Không có thông tin người dùng để cập nhật. Vui lòng chọn",
+    "adultPrice": "Giá vé người lớn",
+    "childPrice": "Giá vé trẻ em"
+  },
+  "admin": {
+    "logout": "Đăng xuất",
+    "logoutFromAdmin": "Đăng xuất khỏi Admin Panel!",
+    "confirmAction": "Xác nhận thao tác",
+    "confirmDeleteUser": "Xác nhận xóa người dùng",
+    "confirmDeleteOrder": "Xác nhận xóa đơn hàng",
+    "confirmDeleteSeatClass": "Xác nhận xóa hạng ghế",
+    "confirmDeleteCoupon": "Xác nhận xóa mã giảm giá",
+    "confirmDeleteAirport": "Xác nhận xóa sân bay",
+    "confirmDeleteFlight": "Xác nhận xóa chuyến bay",
+    "confirmDeleteAirline": "Xác nhận xóa hãng hàng không",
+    "saveChanges": "Lưu thay đổi",
+    "search": "Tìm kiếm",
+    "tabs": {
+      "paid": "Đã thanh toán",
+      "pending": "Chờ thanh toán"
+    },
+    "deleteUserConfirm": "Bạn có chắc chắn muốn xóa tài khoản người dùng",
+    "selectUserGroup": "Chọn nhóm người dùng"
+  },
+  "otp": {
+    "confirmOTP": "Xác nhận mã OTP",
+    "back": "Quay lại"
+  },
+  "flight": {
+    "changeNotification": "Chúng tôi sẽ thông báo chuyến bay mới của bạn qua email, thông báo đẩy,",
+    "selfCancel": "Tự hủy (thay đổi kế hoạch).",
+    "airlineCancel": "Hãng hàng không hủy chuyến bay.",
+    "flexibleTime": ", thời gian bay tùy chọn. Nhanh để"
+  },
+  "cart": {
+    "payment": "thanh toán!",
+    "continue": "Tiếp tục",
+    "selectMaxOneFlight": "Vui lòng chọn không quá 1 chuyến bay để",
+    "cart": "Giỏ hàng",
+    "total": "Tổng:",
+    "departure": "Khởi hành",
+    "details": "Chi tiết",
+    "directFlight": "Bay thẳng",
+    "oneStop": "1 điểm dừng",
+    "twoStops": "2 điểm dừng",
+    "moreThanThreeStops": "3+ điểm dừng",
+    "nextDay": "+1 ngày",
+    "roundTrip": "Khứ hồi",
+    "passengers": "hành khách",
+    "children": "trẻ em"
+  },
+  "yourCurrentFlight": {
+    "yourFlight": "Chuyến bay của bạn",
+    "details": "Chi tiết",
+    "directFlight": "Bay thẳng",
+    "oneStop": "1 điểm dừng",
+    "twoStops": "2 điểm dừng",
+    "threeStops": "3 điểm dừng",
+    "summary": "Tóm tắt",
+    "totalAmount": "Tổng tiền:",
+    "departureTicket": "Vé lượt đi:",
+    "returnTicket": "Vé lượt về:",
+    "departureBaggage": "Hành lý lượt đi:",
+    "returnBaggage": "Hành lý lượt về:",
+    "selectDepartureSeat": "Chọn ghế lượt đi:",
+    "selectReturnSeat": "Chọn ghế lượt về:",
+    "discountAmount": "Số tiền được giảm:"
+  },
+  "register": {
+    "title": "Đăng ký",
+    "registerWithGoogle": "Đăng ký với Google",
+    "registerWithFacebook": "Đăng ký với Facebook",
+    "registerWithTelegram": "Đăng ký với Telegram",
+    "registerWithOther": "Đăng ký bằng cách khác"
+  },
+  "search": {
+    "from": "Từ",
+    "to": "Đến",
+    "adultCount": "{{count}} người lớn",
+    "childCount": "{{count}} trẻ em",
+    "selectDepartureDate": "Chọn ngày khởi hành",
+    "selectReturnDate": "Chọn ngày khứ hồi",
+    "title": "Đối tác đáng tin cậy cho mọi hành trình bay của bạn",
+    "subtitle": "Bay giá sốc ưu đãi mỗi ngày",
+    "oneWay": "Một chiều",
+    "roundTrip": "Khứ hồi",
+    "adult": "Người lớn",
+    "child": "Trẻ em",
+    "adults": "người lớn",
+    "children": "trẻ em",
+    "departureDate": "Ngày khởi hành",
+    "returnDate": "Khứ hồi",
+    "enterDeparture": "Nhập điểm đi",
+    "enterDestination": "Nhập điểm đến"
+  },
+
+  "nearDestination": {
+    "title": "Các điểm đến được yêu thích",
+    "to": "đến"
+  },
+
+  "flightType": {
+    "departure": "Chuyến bay khởi hành",
+    "return": "Chuyến bay khú hồi"
+  },
+
+  "confirmUserFlight": {
+    "reviewYourFlight": "Xem lại chuyến bay của bạn",
+    "departure": "Khởi hành",
+    "addToCartSuccess": "Thêm sản phẩm vào giỏ hàng thành công",
+    "departureDirection": "Chiều đi",
+    "roundTrip": "Khứ hồi",
+    "details": "Chi tiết",
+    "directFlight": "Bay thẳng",
+    "oneStop": "1 điểm dừng",
+    "twoStops": "2 điểm dừng",
+    "moreThanThreeStops": "3+ điểm dừng",
+    "nextDayArrival": "+1 ngày",
+    "total": "Tổng:",
+    "perPerson": "khách",
+    "personCount": "người",
+    "addToCart": "Thêm vào giỏ hàng",
+    "continue": "Tiếp tục"
+  },
+  "findOtherFlight": {
+    "passengers": "hành khách",
+    "lowestPrice": "Giá thấp nhất",
+    "highestPrice": "Giá cao nhất",
+    "directFlightPriority": "Ưu tiên bay thẳng"
+  },
+  "flightResult": {
+    "select": "Chọn",
+    "noFlightsFound": "Không tìm thấy chuyến bay",
+    "detail": "Chi tiết",
+    "refund": "Hoàn vé",
+    "changeFlight": "Đổi chuyến",
+    "promotions": "Khuyến mại"
+  },
+  "flightChange": {
+    "noChangeSupport": "Không hỗ trợ đổi lịch",
+    "noChangeSupportDesc": "Chuyến bay này chưa có hỗ trợ đổi lịch bay tại thời điểm hiện tại",
+    "hasChangeSupport": "Hỗ trợ đổi lịch",
+    "title": "Bạn có thể thay đổi chuyến bay theo:",
+    "reason1": "Ngày và giờ bay của bạn",
+    "reason2": "Lộ trình di chuyển",
+    "reason3": "Hãng hàng không"
+  },
+  "flightInformation": {
+    "freeBaggage": "kg hành lý miễn phí",
+    "carryOnBaggage": "kg hành lý xách tay"
+  },
+  "flightSelectedInformation": {
+    "title": "Tiện ích đi kèm tại chuyến bay",
+    "numberFreeBaggage": "kg hành lý miễn phí",
+    "numberCarryOnBaggage": "kg hành lý xách tay",
+    "changeSupport": "Hỗ trợ đổi lịch bay",
+    "no": "Không hỗ trợ",
+    "yes": "Có hỗ trợ",
+    "refundSupport": "Hỗ trợ hoàn tiền",
+    "close": "Đóng"
+  },
+  "yourFlight": {
+    "yourFlight": "Chuyến bay của bạn",
+    "details": "Chi tiết",
+    "directFlight": "Bay thẳng",
+    "oneStop": "1 điểm dừng",
+    "twoStops": "2 điểm dừng",
+    "threeStops": "3 điểm dừng",
+    "changeFlight": "Đổi chuyến bay"
+  },
+  "paymentForm": {
+    "payment": "Thanh toán",
+    "paymentSuccess": "Thanh toán thành công!",
+    "transactionCancelled": "Giao dịch đã bị hủy!",
+    "paymentError": "Lỗi xảy ra trong quá trình thanh toán!",
+    "byClickingButton": "Bằng cách bấm vào nút gửi đơn đặt chỗ",
+    "iAgree": "này, tôi đồng ý với",
+    "termsOfUse": "Điều Khoản Sử Dụng",
+    "and": "và",
+    "privacyPolicy": "Chính Sách Bảo Mật",
+    "ofJetNow": "của JetNow.",
+    "totalPayment": "Tổng thanh toán:",
+    "totalBaggage": "Tổng hành lý:",
+    "totalSelectedSeats": "Tổng ghế đã chọn:",
+    "totalDepartureTickets": "Tổng vé lượt đi:",
+    "totalReturnTickets": "Tổng vé lượt về:",
+    "discount": "Giảm giá: -",
+    "noOrdersToPay": "Hiện không có đơn hàng nào cần được chọn để thanh toán",
+    "backToHome": "Quay lại trang chủ"
+  },
+  "detailOrderInformation": {
+    "waitingForPayment": "Chờ thanh toán",
+    "paymentSuccessful": "Thanh toán thành công!",
+    "cancelled": "Đã hủy",
+    "departureTime": "Giờ khởi hành:",
+    "amenities": "Tiện ích đi kèm",
+    "freeBaggage": "kg hành lý miễn phí",
+    "carryOnBaggage": "kg hành lý xách tay",
+    "policy": "Chính sách",
+    "changeSupport": "Hỗ trợ đổi lịch bay",
+    "noChangeSupport": "Không hỗ trợ đổi lịch bay",
+    "refundSupport": "Hỗ trợ hoàn vé",
+    "noRefundSupport": "Không hỗ trợ hoàn vé",
+    "adult": "Người lớn",
+    "departure": "Chuyến đi:",
+    "seat": "Ghế:",
+    "baggage": "Hành lý:",
+    "pieces": "kiện",
+    "return": "Chuyến về:"
+  },
+  "contactInfo": {
+    "orderInformation": "Thông tin đơn hàng",
+    "departure": "Chuyến đi",
+    "roundTrip": "Chuyến khứ hồi",
+    "booker": "Người đặt:",
+    "phoneNumber": "Số điện thoại:"
+  },
+  "passengerInfo": {
+    "passengerInformation": "Thông tin hành khách",
+    "adult": "Người lớn",
+    "child": "Trẻ em"
+  },
+  "paymentSuccess": {
+    "paymentSuccessful": "🎉 Thanh toán thành công!",
+    "thankYou": "Cảm ơn bạn đã sử dụng dịch vụ của chúng tôi.", 
+    "orderCode": "Mã đơn hàng:",
+    "orderDate": "Ngày đặt:",
+    "paymentMethod": "Thanh toán qua:",
+    "totalAmount": "Tổng tiền:",
+    "status": "Trạng thái:",
+    "viewOrderHistory": "Xem lịch sử đơn hàng",
+    "backToHome": "Quay về trang chủ"
+  },
+
+  "flightRefundInfomation": {
+    "noRefundSupportTitle": "Không hỗ trợ hoàn vé!",
+    "noRefundSupportDescription": "Chuyến bay này chưa có hỗ trợ hoàn tiền tại thời điểm hiện tại.",
+    "noRefundSupportNote": "Nếu có bất kì lý do bất khả kháng nào bạn có thể gửi yêu cầu liên hệ chờ bên hãng hàng không phê duyệt với lý do hoàn vé của bạn.",
+    "hasRefundSupportTitle": "Có hỗ trợ hoàn vé!",
+    "hasRefundSupportDescription": "Chuyến bay hỗ trợ hoàn tiền lên đến {{percent}}% giá trị cho một vé.",
+    "refundPolicyTitle": "Chính sách hoàn vé:",
+    "refundPolicyItems": [
+      "Tự hủy (thay đổi kế hoạch).",
+      "Hãng hàng không hủy chuyến bay.",
+      "Chuyến bay bị hãng hàng không đổi lịch đáng kể (theo quyết định của hãng hàng không)."
+    ]
+  },
+  "userFlightPromotion": {
+    "discountUpTo": "Giảm đến",
+    "bookFrom": "Đặt từ",
+    "flexibleTime": "Thời gian linh hoạt",
+    "copy": "Copy"
+  },
+  "baggage": {
+    "flightEssentials": "Nhu yếu phẩm chuyến bay",
+    "title": "Hành lý",
+    "flightsHaveBaggageInfo": "Một số chuyến bay đã có hành lý. Chọn để xem.",
+    "segmentsWithoutBaggage": "Một hoặc nhiều chuyến đi chưa có hành lý",
+    "whenAddingOnePiece": "khi thêm một kiện hành lý",
+    "addBaggage": "Thêm hàng lý",
+    "selectFlight": "Chọn chuyến bay",
+    "departureBaggage": "Hành lý chuyến đi:",
+    "returnBaggage": "Hành lý khứ hồi:",
+    "passengers": "Hành khách",
+    "includedFree": "Đã bao gồm (miễn phí)",
+    "onePiece": "1 kiện",
+    "pieces": "kiện",
+    "totalBaggage": "Tổng số hành lý",
+    "free": "(miễn phí)"
+  },
+
+  "chooseOtherSeatClass": {
+    "headerTitle": "Hạng ghế",
+    "headerSub": "Chọn hạng ghế phù hợp với nhu cầu của bạn",
+    "stepDep": "1. Chuyến bay đi",
+    "stepRet": "2. Chuyến bay về",
+    "dirDep": "Khởi hành",
+    "dirRet": "Khứ hồi",
+    "perPax": "/khách",
+    "changeOk": "Có hỗ trợ đổi lịch bay",
+    "changeNo": "Không hỗ trợ đổi lịch bay",
+    "refundOk": "Có hỗ trợ hoàn tiền",
+    "refundNo": "Không hỗ trợ hoàn tiền"
+  },
+
+  "people": {
+    "mr": "Ông",
+    "mrs": "Bà",
+    "ms": "Cô"
+  },
+  "orderDetail": {
+    "modalTitle": "Chi tiết đơn hàng",
+    "loading": "Đang tải...",
+    "noData": "Không có dữ liệu",
+    "statusOrder": "Trạng thái đơn hàng",
+    "status": "Trạng thái:",
+    "paymentMethod": "Phương thức thanh toán:",
+    "orderCode": "Mã đơn hàng:",
+    "transactionCode": "Mã giao dịch:",
+    "passengerInfo": "Thông tin hành khách",
+    "bookingCustomer": "Người đặt vé:",
+    "departureTime": "Thời gian khởi hành:",
+    "amenities": "Tiện ích",
+    "freeBaggage": "Hành lý miễn phí",
+    "carryOnBaggage": "Hành lý xách tay",
+    "policy": "Chính sách",
+    "changeSupport": "Hỗ trợ đổi",
+    "noChangeSupport": "Không hỗ trợ đổi",
+    "refundSupport": "Hỗ trợ hoàn tiền",
+    "noRefundSupport": "Không hỗ trợ hoàn tiền",
+    "detail": "Chi tiết",
+    "return": "Về",
+    "seat": "Chỗ ngồi",
+    "baggage": "Hành lý",
+    "pieces": "kiện",
+    "adult": "Người lớn",
+    "child": "Trẻ em",
+    "priceDetail": "Chi tiết giá",
+    "totalTicketDeparture": "Tổng vé đi:",
+    "totalTicketReturn": "Tổng vé về:",
+    "totalBaggagePrice": "Tổng giá hành lý:",
+    "totalSeatDetailPrice": "Tổng giá chọn chỗ:",
+    "discount": "Giảm giá:",
+    "total": "Tổng cộng:",
+    "departureFlight": "Chuyến bay đi",
+    "returnFlight": "Chuyến bay khứ hồi"
+  },
+  "orderHistory": {
+    "title": "Lịch sử đặt hàng",
+    "orderCode": "Mã đơn hàng:",
+    "oneWayFlight": "Chuyến bay một chiều",
+    "roundTripFlight": "Chuyến bay khứ hồi",
+    "returnFlight": "Chuyến về",
+    "passengerCount": "Số hành khách:",
+    "time": "Thời gian:",
+    "paymentMethod": "Hình thức thanh toán:",
+    "totalPrice": "Tổng tiền",
+    "payNow": "Thanh toán ngay",
+    "details": "Chi tiết",
+    "cancelOrder": "Hủy đơn hàng",
+    "cancelAndRefund": "Hủy đơn và hoàn tiền",
+    "noOrder": "Hiện chưa có đơn hàng được đặt",
+    "status": {
+      "paid": "Đã thanh toán",
+      "pending": "Chờ thanh toán",
+      "refundPending": "Đang chờ hoàn tiền"
+    }
+  },
+  "orderRefund": {
+    "title": "Đơn hàng hoàn tiền",
+    "loading": "Đang tải danh sách yêu cầu hoàn tiền...",
+    "noData": "Không có yêu cầu hoàn tiền nào.",
+    "tableHeaders": {
+      "number": "#",
+      "orderCode": "Mã đơn hàng",
+      "refundAmount": "Số tiền hoàn",
+      "status": "Trạng thái",
+      "time": "Thời gian",
+      "actions": ""
+    },
+    "detailsButton": "Chi tiết",
+    "status": {
+      "pendingRefund": "Đang chờ hoàn tiền",
+      "refunded": "Đã hoàn tiền"
+    }
+  },
+
+  "registerForm": {
+    "signUp": "Đăng ký",
+    "usernameLabel": "Tên đăng nhập",
+    "usernamePlaceholder": "Nhập tên đăng nhập của bạn",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Nhập email của bạn",
+    "passwordLabel": "Mật khẩu",
+    "passwordPlaceholder": "Nhập mật khẩu",
+    "confirmPasswordLabel": "Xác nhận mật khẩu",
+    "confirmPasswordPlaceholder": "Nhập mật khẩu xác nhận",
+    "registerButton": "Đăng ký",
+    "orRegisterWith": "hoặc đăng kí với",
+    "errorUsernameRequired": "Tên đăng nhập là bắt buộc",
+    "errorEmailRequired": "Email là bắt buộc",
+    "errorEmailInvalid": "Email không hợp lệ",
+    "errorPasswordRequired": "Mật khẩu là bắt buộc",
+    "errorPasswordMin": "Mật khẩu phải có ít nhất 6 ký tự",
+    "errorConfirmPasswordRequired": "Mật khẩu xác nhận là bắt buộc",
+    "errorConfirmPasswordInvalid": "Mật khẩu xác nhận không hợp lệ",
+    "errorFacebookAccountExists": "Facebook hoặc Email của bạn đã được đăng kí trên tài khoản khác!"
+  },
+
+  "forgotPassword": {
+    "headerTitle": "Quên mật khẩu",
+    "description": "Nhập email để lấy lại mật khẩu",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Nhập email của bạn",
+    "sendOtpButton": "Gửi mã OTP",
+    "errorInvalidEmail": "Email không hợp lệ",
+    "altBackground": "background"
+  },
+
+  "otpForgetPassword": {
+    "headerTitle": "Xác thực OTP",
+    "description": "Vui lòng kiểm tra email",
+    "and": "và nhập mã OTP",
+    "otpLabel": "Mã OTP (6 chữ số)",
+    "submitButton": "Xác nhận mã OTP",
+    "timerText": "Mã OTP có hiệu lực trong:",
+    "resendOtp": "Gửi lại mã OTP",
+    "errorInvalidOtp": "Mã OTP phải gồm 6 chữ số",
+    "altBackground": "background",
+    "exprerOtp": "Mã otp đã hết hạn hoặc không đúng",
+    "fail": "Gửi otp thất bại"
+  },
+
+  "resetPassword": {
+    "headerTitle": "Đặt lại mật khẩu",
+    "description": "Nhập mật khẩu mới của bạn",
+    "newPasswordLabel": "Mật khẩu mới",
+    "newPasswordPlaceholder": "Nhập mật khẩu mới",
+    "updateButton": "Cập nhật mật khẩu",
+    "backLink": "Quay lại",
+    "errorPasswordMin": "Mật khẩu phải có ít nhất 6 ký tự",
+    "errorSystem": "Lỗi hệ thống, thử lại sau.",
+    "altBackground": "background"
+  },
+  "failSearchDestinationSuggestion": "Không tìm thấy địa điểm phù hợp",
+
+  "paymentMethodContent": {
+    "paypalTitle": "Thanh toán qua PayPal",
+    "paypalContent": "Bạn sẽ được chuyển đến cổng thanh toán quốc tế PayPal để hoàn tất giao dịch",
+    "vnpaytitle": "Thanh toán qua VNPAY",
+    "vnpayContent": "Bạn sẽ được chuyển đến cổng thanh toán VNPay để hoàn tất giao dịch"
+  },
+
+  "sendSupport": {
+    "title": "Hỗ trợ",
+    "Email": "Địa chỉ Email (tùy chọn)",
+    "content": "Nội dung hỗ trợ",
+    "send": "Gửi",
+    "contentPlaceholder": "Mô tả vấn đề hoặc yêu cầu hỗ trợ"
+  },
+  "dashboard": {
+    "title": "Dashboard Quản lý Hệ thống",
+    "totalFlights": "Tổng chuyến bay",
+    "bookedFlights": "Chuyến đã đặt",
+    "paidFlights": "Chuyến đã thanh toán",
+    "canceledFlights": "Chuyến bị hủy",
+    "totalRevenue": "Tổng doanh thu",
+    "totalAirlines": "Tổng hãng hàng không",
+    "totalAirports": "Tổng sân bay"
+  },
+  "adminSidebar": {
+    "adminTitle": "Admin",
+    "dashboard": "Dashboard",
+    "users": "Người dùng",
+    "orders": "Đơn hàng",
+    "flights": "Chuyến bay",
+    "seatClasses": "Hạng ghế",
+    "discountCodes": "Mã giảm giá",
+    "airports": "Sân bay",
+    "airlines": "Hãng hàng không",
+    "refundRequests": "Yêu cầu hoàn tiền",
+    "managePermissions": "Quản lý phân quyền",
+    "supportRequests": "Yêu cầu hỗ trợ",
+    "language": "Ngôn ngữ",
+    "logout": "Đăng xuất",
+    "confirmLogout": "Xác nhận đăng xuất",
+    "logoutConfirmationText": "Bạn có chắc muốn đăng xuất khỏi Admin Panel?",
+    "logoutButton": "Đăng xuất",
+    "cancelButton": "Hủy"
+  },
+
+  "languageModal": {
+    "selectLanguage": "Chọn ngôn ngữ",
+    "english": "English",
+    "vietnamese": "Tiếng Việt",
+    "closeButton": "Đóng"
+  },
+
+  "supportRequests": {
+    "pageTitle": "Danh sách Yêu cầu Hỗ trợ",
+    "errorLoadingList": "Lỗi khi tải danh sách hỗ trợ.",
+    "errorCallingApi": "Lỗi khi gọi API.",
+    "deleteFailed": "Xóa thất bại.",
+    "errorDeletingRequest": "Lỗi khi xóa yêu cầu hỗ trợ.",
+    "tableHeader": {
+      "dateCreated": "Ngày tạo",
+      "contactEmail": "Email liên hệ",
+      "content": "Nội dung",
+      "actions": "Thao tác"
+    },
+    "noRequestsFound": "Không có yêu cầu hỗ trợ nào.",
+    "detailModal": {
+      "title": "Chi tiết Yêu cầu Hỗ trợ",
+      "contactEmail": "Email liên hệ",
+      "content": "Nội dung",
+      "closeButton": "Đóng"
+    },
+    "deleteModal": {
+      "title": "Xác nhận xóa",
+      "confirmationText": "Bạn có chắc muốn xóa yêu cầu này không? Hành động không thể hoàn tác.",
+      "deleteButton": "Xóa",
+      "cancelButton": "Hủy"
+    }
+  },
+
+  "addAirlineModal": {
+    "title": "Thêm Hãng hàng không Mới",
+    "form": {
+      "airlineName": "Tên hãng",
+      "placeholderName": "Nhập tên hãng hàng không",
+      "country": "Quốc gia",
+      "placeholderCountry": "Nhập quốc gia",
+      "logo": "Logo",
+      "logoPreviewAlt": "Ảnh xem trước logo",
+      "logoHelpText": "Chọn một tệp ảnh cho logo (định dạng PNG, JPG, JPEG)."
+    },
+    "buttons": {
+      "processing": "Đang xử lý...",
+      "addNew": "Thêm mới",
+      "cancel": "Hủy"
+    },
+    "validation": {
+      "selectLogo": "Vui lòng chọn một ảnh logo cho hãng hàng không."
+    },
+    "errors": {
+      "apiCallFailed": "Lỗi khi gọi API."
+    }
+  },
+
+  "updateAirlineModal": {
+    "title": "Cập nhật Hãng hàng không",
+    "form": {
+      "airlineName": "Tên hãng",
+      "placeholderName": "Nhập tên hãng hàng không",
+      "country": "Quốc gia",
+      "placeholderCountry": "Nhập quốc gia",
+      "logo": "Logo",
+      "logoPreviewAlt": "Ảnh xem trước logo",
+      "logoHelpText": "Chọn một tệp ảnh mới cho logo (định dạng PNG, JPG, JPEG). Để trống nếu không muốn thay đổi."
+    },
+    "buttons": {
+      "processing": "Đang cập nhật...",
+      "update": "Cập nhật",
+      "cancel": "Hủy"
+    },
+    "validation": {
+      "emptyFields": "Tên hãng và Quốc gia không được để trống."
+    },
+    "errors": {
+      "apiCallFailed": "Đã xảy ra lỗi khi cập nhật."
+    }
+  },
+
+  "viewAirlines": {
+    "title": "Quản lý Hãng hàng không",
+    "addNewAirlineButton": "Thêm hãng hàng không mới",
+    "table": {
+      "colNo": "#",
+      "colLogo": "Logo",
+      "colAirlineName": "Tên hãng",
+      "colCountry": "Quốc gia",
+      "colActions": "Thao tác",
+      "noAirlinesFound": "Không tìm thấy hãng hàng không nào."
+    },
+    "deleteConfirmModal": {
+      "title": "Xác nhận xóa hãng hàng không",
+      "message": "Bạn có chắc chắn muốn xóa hãng hàng không",
+      "messageSuffix": "này không? Hành động này không thể hoàn tác.",
+      "deleting": "Đang xóa...",
+      "deleteButton": "Xóa",
+      "cancelButton": "Hủy"
+    },
+    "errors": {
+      "deleteFailed": "Đã xảy ra lỗi khi xóa hãng hàng không."
+    }
+  },
+  "pagination": {
+    "next": "tiếp",
+    "previous": "trước"
+  },
+
+  "addAirport": {
+    "modalTitle": "Thêm Sân bay Mới",
+    "form": {
+      "airportNameLabel": "Tên sân bay:",
+      "airportNamePlaceholder": "Nhập tên sân bay",
+      "iataCodeLabel": "Mã IATA (Code):",
+      "iataCodePlaceholder": "Nhập mã IATA",
+      "countryLabel": "Quốc gia:",
+      "countryPlaceholder": "Nhập quốc gia",
+      "provinceLabel": "Tỉnh/Thành phố:",
+      "provincePlaceholder": "Nhập tỉnh/thành phố",
+      "timeZoneLabel": "Múi giờ:",
+      "timeZonePlaceholder": "Nhập múi giờ (ví dụ: +07:00)",
+      "imageProvinceLabel": "Ảnh tỉnh/thành phố:",
+      "imageProvinceAlt": "Ảnh tỉnh/thành phố Preview",
+      "imageProvinceHelpText": "Chọn một tệp ảnh cho tỉnh/thành phố."
+    },
+    "buttons": {
+      "processing": "Đang xử lý...",
+      "addNew": "Thêm mới",
+      "cancel": "Hủy"
+    },
+    "validation": {
+      "allFieldsRequired": "Vui lòng điền đầy đủ tất cả các trường và chọn ảnh."
+    },
+    "errors": {
+      "addAirportFailedConsole": "Lỗi khi thêm sân bay:",
+      "addAirportFailedToast": "Đã xảy ra lỗi khi thêm sân bay."
+    }
+  },
+
+  "updateAirport": {
+    "modalTitle": "Cập nhật Sân bay",
+    "form": {
+      "airportNameLabel": "Tên sân bay:",
+      "airportNamePlaceholder": "Nhập tên sân bay",
+      "iataCodeLabel": "Mã IATA (Code):",
+      "iataCodePlaceholder": "Nhập mã IATA",
+      "countryLabel": "Quốc gia:",
+      "countryPlaceholder": "Nhập quốc gia",
+      "provinceLabel": "Tỉnh/Thành phố:",
+      "provincePlaceholder": "Nhập tỉnh/thành phố",
+      "timeZoneLabel": "Múi giờ:",
+      "timeZonePlaceholder": "Nhập múi giờ (ví dụ: +07:00)",
+      "imageProvinceLabel": "Ảnh tỉnh/thành phố:",
+      "imageProvinceAlt": "Ảnh tỉnh/thành phố Preview/Hiện tại",
+      "imageProvinceHelpText": "Chọn một tệp ảnh mới cho tỉnh/thành phố. Để trống nếu không muốn thay đổi ảnh."
+    },
+    "buttons": {
+      "processing": "Đang cập nhật...",
+      "update": "Cập nhật",
+      "cancel": "Hủy"
+    },
+    "validation": {
+      "allFieldsRequired": "Vui lòng điền đầy đủ tất cả các trường."
+    },
+    "errors": {
+      "updateAirportFailedConsole": "Lỗi khi cập nhật sân bay:",
+      "updateAirportFailedToast": "Đã xảy ra lỗi khi cập nhật sân bay."
+    }
+  },
+
+  "viewAirports": {
+    "mainTitle": "Quản lý Sân bay",
+    "buttons": {
+      "addNewAirport": "Thêm sân bay mới",
+      "delete": "Xóa",
+      "deleting": "Đang xóa...",
+      "cancel": "Hủy"
+    },
+    "deleteModal": {
+      "title": "Xác nhận xóa sân bay",
+      "confirmationText": "Bạn có chắc chắn muốn xóa sân bay",
+      "irrevocableText": "này không? Hành động này không thể hoàn tác."
+    },
+    "tableHeaders": {
+      "airportName": "Tên sân bay",
+      "iataCode": "Mã IATA",
+      "country": "Quốc gia",
+      "province": "Tỉnh/Thành phố",
+      "timeZone": "Múi giờ",
+      "actions": "Thao tác"
+    },
+    "noAirportsFound": "Không tìm thấy sân bay nào.",
+    "pagination": {
+      "previous": "Trước",
+      "next": "Sau"
+    },
+    "errors": {
+      "deleteAirportFailedConsole": "Lỗi khi xóa sân bay:",
+      "deleteAirportFailedToast": "Có lỗi xảy ra khi xóa sân bay!",
+      "fetchAirportsFailedConsole": "Lỗi khi tải danh sách sân bay:",
+      "fetchAirportsFailedToast": "Có lỗi xảy ra khi tải danh sách sân bay!"
+    }
+  },
+
+  "viewAirportDetails": {
+    "modalTitle": "Thông tin chi tiết Sân bay",
+    "airportNameLabel": "Tên sân bay",
+    "iataCodeLabel": "Mã IATA (Code)",
+    "countryLabel": "Quốc gia",
+    "provinceLabel": "Tỉnh/Thành phố",
+    "timeZoneLabel": "Múi giờ",
+    "imageAlt": "Ảnh {{province}}",
+    "imageDescription": "Ảnh tỉnh/thành phố",
+    "noImageMessage": "Không có ảnh tỉnh/thành phố",
+    "closeButton": "Đóng"
+  },
+
+  "addCoupon": {
+    "modalTitle": "Thêm Mã Giảm Giá Mới",
+    "form": {
+      "percentLabel": "Phần trăm giảm giá",
+      "percentPlaceholder": "Nhập phần trăm giảm giá (ví dụ: 10)",
+      "codeLabel": "Mã giảm giá",
+      "codePlaceholder": "Nhập mã giảm giá (ví dụ: TET2025)",
+      "maxDiscountLabel": "Giảm giá tối đa",
+      "maxDiscountPlaceholder": "Nhập số tiền giảm giá tối đa",
+      "minOrderPriceLabel": "Giá trị đơn hàng tối thiểu",
+      "minOrderPricePlaceholder": "Nhập giá trị đơn hàng tối thiểu để áp dụng",
+      "convertedValueLabel": "Giá trị chuyển đổi"
+    },
+    "buttons": {
+      "saving": "Đang lưu...",
+      "addNew": "Thêm mới",
+      "cancel": "Hủy"
+    },
+    "errors": {
+      "addCouponFailedConsole": "Lỗi khi thêm mã giảm giá:",
+      "addCouponFailedToast": "Đã xảy ra lỗi khi thêm mã giảm giá."
+    }
+  },
+
+  "updateCoupon": {
+    "modalTitle": "Cập nhật Mã Giảm Giá",
+    "form": {
+      "percentLabel": "Phần trăm giảm giá",
+      "codeLabel": "Mã giảm giá",
+      "maxDiscountLabel": "Giảm giá tối đa",
+      "minOrderPriceLabel": "Giá trị đơn hàng tối thiểu",
+      "convertedValueLabel": "Giá trị chuyển đổi"
+    },
+    "buttons": {
+      "saving": "Đang lưu...",
+      "update": "Cập nhật",
+      "cancel": "Hủy"
+    },
+    "errors": {
+      "updateCouponFailedConsole": "Lỗi khi cập nhật mã giảm giá:",
+      "updateCouponFailedToast": "Đã xảy ra lỗi khi cập nhật mã giảm giá."
+    }
+  },
+
+  "viewCoupons": {
+    "title": "Quản lý Mã Giảm Giá",
+    "buttons": {
+      "addNewCoupon": "Thêm mã giảm giá mới",
+      "deleting": "Đang xóa...",
+      "delete": "Xóa",
+      "cancel": "Hủy"
+    },
+    "deleteModal": {
+      "title": "Xác nhận xóa mã giảm giá",
+      "body": "Bạn có chắc chắn muốn xóa mã giảm giá {{code}} này không? Hành động này không thể hoàn tác."
+    },
+    "table": {
+      "percentCol": "Phần trăm giảm",
+      "codeCol": "Mã giảm giá",
+      "maxDiscountCol": "Giảm tối đa",
+      "minOrderPriceCol": "Đơn hàng tối thiểu",
+      "actionsCol": "Thao tác",
+      "noCouponsFound": "Không tìm thấy mã giảm giá nào."
+    },
+    "pagination": {
+      "next": "Sau",
+      "previous": "Trước"
+    },
+    "errors": {
+      "deleteCouponFailedConsole": "Lỗi khi xóa mã giảm giá:",
+      "deleteCouponFailedToast": "Đã xảy ra lỗi khi xóa mã giảm giá.",
+      "fetchCouponsFailed": "Đã xảy ra lỗi khi lấy dữ liệu mã giảm giá."
+    }
+  },
+
+  "addFlightForm": {
+    "errors": {
+      "fetchSeatClassUtils": "Lỗi khi lấy dữ liệu seat class hoặc utils:",
+      "searchAirport": "Lỗi khi tìm sân bay:",
+      "searchAirline": "Lỗi khi tìm hãng hàng không:",
+      "fetchDataGeneral": "Lỗi khi lấy dữ liệu:"
+    },
+    "seatClassSection": {
+      "header": "Hạng Ghế & Tiện Ích",
+      "addSeatClassBtn": "+ Thêm hạng ghế",
+      "seatHeader": "Hạng ghế #{{index}}",
+      "deleteButton": "Xóa",
+      "seatTypeLabel": "Loại hạng ghế",
+      "selectTypeOption": "Chọn loại",
+      "totalSeatsLabel": "Tổng số ghế",
+      "cabinLayoutLabel": "Layout Cabin",
+      "selectLayoutOption": "Chọn layout",
+      "adultTicketPriceLabel": "Giá vé người lớn",
+      "convertedValueLabel": "Giá trị chuyển đổi",
+      "childTicketPriceLabel": "Giá vé trẻ em",
+      "carryOnBaggageLabel": "Hành lý xách tay (kg)",
+      "freeCheckedBaggageLabel": "Hành lý ký gửi miễn phí (kg)",
+      "maxCheckedBaggageWeightLabel": "Trọng lượng ký gửi tối đa (kg)",
+      "extraBaggagePriceLabel": "Giá thêm 1 kiện hành lý",
+      "changeFlightLabel": "Đổi chuyến",
+      "changeFlightNo": "Không",
+      "changeFlightYes": "Có",
+      "refundPercentLabel": "Hoàn tiền (%)",
+      "windowSeatPriceLabel": "Giá vé ghế cửa sổ",
+      "normalSeatPriceLabel": "Giá vé ghế thường",
+      "utilitiesLabel": "Tiện ích"
+    },
+
+    "validation": {
+      "fullDataRequired": "Vui lòng nhập đầy đủ dữ liệu cho chuyến bay!"
+    },
+    "title": "Thêm Chuyến Bay Mới",
+    "basicInfo": {
+      "title": "Thông Tin Cơ Bản",
+      "flightNumber": "Số Hiệu Chuyến Bay",
+      "airline": "Hãng Hàng Không",
+      "searchAirlinePlaceholder": "Tìm kiếm hãng hàng không..."
+    },
+    "segments": {
+      "title": "Chặng Bay",
+      "addSegmentButton": "+ Thêm Chặng",
+      "segmentNumber": "Chặng {{number}}",
+      "deleteButton": "Xóa",
+      "departureAirport": "Sân Bay Khởi Hành",
+      "searchDepartureAirportPlaceholder": "Tìm kiếm sân bay khởi hành..."
+    },
+
+    "arrivalAirportLabel": "Sân Bay Đến",
+    "arrivalAirportPlaceholder": "Tìm kiếm sân bay đến...",
+    "departureTimeLabel": "Thời Gian Khởi Hành",
+    "arrivalTimeLabel": "Thời Gian Đến",
+    "addFlightButton": "Thêm Chuyến Bay",
+    "cancelButton": "Hủy"
+  },
+
+  "editFlightForm": {
+    "errorLoadingFlightData": "Lỗi tải dữ liệu chuyến bay",
+    "updateSuccess": "Cập nhật chuyến bay thành công!",
+    "updateError": "Lỗi cập nhật chuyến bay",
+    "submitError": "Đã xảy ra lỗi khi gửi dữ liệu",
+    "modalTitle": "Chỉnh sửa chuyến bay",
+    "flightInfoTitle": "Thông tin chuyến bay",
+    "flightCodeLabel": "Mã chuyến bay",
+    "airlineLabel": "Hãng bay",
+    "segmentsTitle": "Chặng Bay",
+    "segment": "Chặng {{number}}",
+    "departurePointLabel": "Điểm đi",
+    "arrivalPointLabel": "Điểm đến",
+    "departureTimeLabel": "Thời gian khởi hành",
+    "arrivalTimeLabel": "Thời gian đến",
+    "seatClassInfoTitle": "Thông tin hạng ghế",
+    "adultPriceLabel": "Giá người lớn",
+    "childPriceLabel": "Giá trẻ em",
+    "carryOnBaggageLabel": "Hành lý xách tay (kg)",
+    "extraBaggagePriceLabel": "Giá thêm 1 kiện hành lý",
+    "refundPercentageLabel": "Hoàn tiền (%)",
+    "freeBaggageLabel": "Hành lý miễn phí (kg)",
+    "maxBaggageWeightLabel": "Khối lượng hành lý tối đa (kg)",
+    "allowRefundLabel": "Có cho hoàn tiền",
+    "utilitiesLabel": "Tiện ích",
+    "saveChangesButton": "Lưu thay đổi",
+    "cancelButton": "Hủy"
+  },
+  "common": {
+    "loading": "Đang tải...",
+    "error": "Lỗi",
+    "notApplicable": "N/A",
+    "status": "Trạng thái",
+    "active": "Hoạt động",
+    "inactive": "Không hoạt động",
+    "yes": "Có",
+    "no": "Không",
+    "close": "Đóng"
+  },
+
+  "flightDetailModal": {
+    "noFlightIdProvided": "Không có ID chuyến bay được cung cấp.",
+    "failedToLoadFlightDetails": "Không thể tải chi tiết chuyến bay.",
+    "errorLoadingData": "Đã xảy ra lỗi trong quá trình tải dữ liệu.",
+    "invalidDate": "Ngày không hợp lệ",
+    "flightDetails": "Chi tiết chuyến bay",
+    "loadingFlightDetails": "Đang tải chi tiết chuyến bay...",
+    "noFlightInfoFound": "Không tìm thấy thông tin chuyến bay. Vui lòng thử lại.",
+    "generalInformation": "Thông tin chung",
+    "flight": "Chuyến bay",
+    "airline": "Hãng hàng không",
+    "flightNumber": "Số hiệu chuyến bay",
+    "departureDate": "Ngày khỏi hành",
+    "airlineLogo": "Logo hãng hàng không",
+    "flightSegments": "Các chặng bay ({{count}})",
+    "segment": "Chặng {{index}}",
+    "departure": "Khởi hành",
+    "arrival": "Đến",
+    "takeoffTime": "Thời gian cất cánh",
+    "landingTime": "Thời gian hạ cánh",
+    "noSegmentInfo": "Không có thông tin chặng bay.",
+    "seatClassPriceInfo": "Thông tin hạng ghế & Giá ({{count}})",
+    "seatClass": "Hạng ghế",
+    "adultPrice": "Giá người lớn",
+    "childPrice": "Giá trẻ em",
+    "maxSeats": "Số ghế tối đa",
+    "remainingSeats": "Số ghế còn lại",
+    "carryOnBaggage": "Hành lý xách tay",
+    "freeCheckedBaggage": "Hành lý ký gửi miễn phí",
+    "maxCheckedBaggage": "Tối đa hành lý ký gửi",
+    "excessBaggagePrice": "Giá hành lý quá cước",
+    "changeFlight": "Đổi chuyến",
+    "refundPercentage": "Hoàn tiền (%)",
+    "utilities": "Tiện ích"
+  },
+
+  "viewFlights": {
+    "title": "Quản lý Chuyến bay",
+    "addNewButton": "Thêm chuyến bay mới",
+    "table": {
+      "hash": "#",
+      "airline": "Hãng",
+      "flightNumber": "Số hiệu chuyến bay",
+      "route": "Chặng bay",
+      "status": "Trạng thái",
+      "actions": "Thao tác",
+      "noFlightsFound": "Không tìm thấy chuyến bay nào."
+    },
+    "status": {
+      "active": "Hoạt động",
+      "inactive": "Không hoạt động"
+    },
+    "deleteModal": {
+      "title": "Xác nhận xóa chuyến bay",
+      "message": "Bạn có chắc chắn muốn xóa chuyến bay với id ",
+      "messageSuffix": " này không? Hành động này không thể hoàn tác.",
+      "deleteButton": "Xóa",
+      "deletingButton": "Đang xóa...",
+      "cancelButton": "Hủy"
+    },
+    "pagination": {
+      "next": "Sau",
+      "previous": "Trước"
+    }
+  },
+
+  "addGroupModal": {
+    "title": "Thêm mới nhóm người dùng",
+    "form": {
+      "nameLabel": "Tên nhóm",
+      "namePlaceholder": "Nhập tên nhóm",
+      "descriptionLabel": "Mô tả",
+      "descriptionPlaceholder": "Nhập mô tả nhóm"
+    },
+    "addButton": "Thêm nhóm",
+    "cancelButton": "Hủy",
+    "validation": {
+      "fillAllFields": "Vui lòng điền đầy đủ tất cả các trường",
+      "serverError": "Lỗi máy chủ"
+    }
+  },
+
+  "addRoleModal": {
+    "title": "Thêm mới quyền",
+    "form": {
+      "urlLabel": "URL",
+      "urlPlaceholder": "Nhập URL quyền",
+      "descriptionLabel": "Mô tả",
+      "descriptionPlaceholder": "Nhập mô tả quyền"
+    },
+    "addButton": "Thêm quyền",
+    "cancelButton": "Hủy",
+    "validation": {
+      "fillAllFields": "Vui lòng điền đầy đủ tất cả các trường",
+      "serverError": "Lỗi máy chủ"
+    }
+  },
+
+
+  "deleteRoleModal": {
+    "title": "Xác nhận xóa quyền",
+    "message": "Bạn có chắc chắn muốn xóa quyền này không:",
+    "deleteButton": "Xóa",
+    "cancelButton": "Hủy",
+    "successMessage": "Quyền đã được xóa thành công",
+    "errorMessage": "Lỗi khi xóa quyền",
+    "somethingWentWrong": "Đã xảy ra lỗi"
+  },
+
+  "updateRoleModal": {
+    "title": "Cập nhật quyền",
+    "form": {
+      "nameLabel": "Tên quyền",
+      "urlLabel": "URL"
+    },
+    "saveButton": "Lưu thay đổi",
+    "cancelButton": "Hủy",
+    "successMessage": "Quyền đã được cập nhật thành công",
+    "errorMessage": "Cập nhật thất bại",
+    "somethingWentWrong": "Đã xảy ra lỗi"
+  },
+
+  "viewListRole": {
+    "title": "Quản lý phân quyền người dùng",
+    "selectGroupPlaceholder": "Chọn nhóm người dùng",
+    "addRoleButton": "Thêm mới quyền",
+    "addGroupButton": "Thêm mới nhóm",
+    "updatePermissionsButton": "Cập nhật quyền",
+    "messages": {
+      "fetchRoleSuccess": "Lấy danh sách quyền thành công",
+      "fetchGroupSuccess": "Lấy danh sách nhóm thành công",
+      "updateRoleOfGroupSuccess": "Cập nhật quyền của nhóm thành công",
+      "errorFetchingRole": "Lỗi khi lấy danh sách quyền",
+      "errorFetchingGroup": "Lỗi khi lấy danh sách nhóm",
+      "errorUpdatingRoleOfGroup": "Lỗi khi cập nhật quyền của nhóm",
+      "errorGettingRoleOfGroup": "Lỗi khi lấy quyền của nhóm"
+    }
+  },
+
+  "viewOrder": {
+    "title": "Danh sách đơn hàng chuyến bay",
+    "tableHeaders": {
+      "stt": "#",
+      "customer": "Người đặt",
+      "journey": "Hành trình",
+      "totalAmount": "Tổng tiền",
+      "orderDate": "Ngày đặt",
+      "paymentMethod": "Thanh toán",
+      "actions": "Thao tác"
+    },
+    "statusTabs": {
+      "paymentSuccess": "Đã thanh toán",
+      "paymentPending": "Chờ thanh toán",
+      "refundSuccess": "Đã hoàn tiền"
+    },
+    "journeyTypes": {
+      "roundTrip": "(Khứ hồi)",
+      "oneWay": "(Một chiều)"
+    },
+    "deleteModal": {
+      "title": "Xác nhận xóa đơn hàng",
+      "body": "Bạn có chắc chắn muốn xóa đơn hàng này của người đặt không?",
+      "deleteButton": "Xóa",
+      "deletingButton": "Đang xóa...",
+      "cancelButton": "Hủy"
+    },
+    "noOrdersFound": "Không có đơn hàng nào.",
+    "pagination": {
+      "previous": "Trước",
+      "next": "Sau"
+    },
+    "toastMessages": {
+      "fetchOrdersError": "Lỗi khi tải danh sách đơn hàng",
+      "deleteOrderSuccess": "Xóa đơn hàng thành công",
+      "deleteOrderError": "Lỗi khi xóa đơn hàng",
+      "somethingWentWrong": "Đã xảy ra lỗi"
+    }
+  },
+
+  "viewRefundRequests": {
+    "title": "Yêu cầu hoàn tiền",
+    "tableHeaders": {
+      "stt": "#",
+      "reason": "Lý do",
+      "note": "Ghi chú",
+      "refundAmount": "Số tiền hoàn",
+      "status": "Trạng thái",
+      "requestDate": "Ngày yêu cầu",
+      "actions": "Thao tác"
+    },
+    "status": {
+      "pending": "Đang chờ hoàn tiền",
+      "refunded": "Đã hoàn tiền",
+      "rejected": "Đã từ chối"
+    },
+    "actionButtons": {
+      "refund": "Hoàn tiền",
+      "reject": "Từ chối"
+    },
+    "noRequestsFound": "Không có yêu cầu hoàn tiền nào.",
+    "pagination": {
+      "previous": "Trước",
+      "next": "Sau"
+    },
+    "confirmModal": {
+      "title": "Xác nhận thao tác",
+      "approveText": "hoàn tiền",
+      "rejectText": "từ chối hoàn tiền",
+      "bodyPart1": "Bạn có chắc chắn muốn",
+      "bodyPart2": "cho yêu cầu này không? Hành động này không thể hoàn tác.",
+      "confirmButton": "Xác nhận",
+      "confirmingButton": "Đang xử lý...",
+      "cancelButton": "Hủy"
+    },
+    "toastMessages": {
+      "fetchError": "Không thể tải danh sách hoàn tiền",
+      "serverConnectError": "Lỗi kết nối đến server",
+      "serverProcessError": "Lỗi server khi xử lý yêu cầu"
+    }
+  },
+
+  "addSeatClass": {
+    "title": "Thêm Hạng Ghế Mới",
+    "formLabels": {
+      "name": "Tên hạng ghế",
+      "description": "Mô tả"
+    },
+    "placeholders": {
+      "name": "Nhập tên hạng ghế (ví dụ: Economy)",
+      "description": "Nhập mô tả cho hạng ghế"
+    },
+    "buttons": {
+      "add": "Thêm mới",
+      "saving": "Đang lưu...",
+      "cancel": "Hủy"
+    },
+    "toastMessages": {
+      "addError": "Đã xảy ra lỗi khi thêm hạng ghế."
+    }
+  },
+
+  "updateSeatClass": {
+    "title": "Cập nhật Hạng Ghế",
+    "formLabels": {
+      "name": "Tên hạng ghế",
+      "description": "Mô tả"
+    },
+    "placeholders": {
+      "name": "Nhập tên hạng ghế",
+      "description": "Nhập mô tả"
+    },
+    "buttons": {
+      "update": "Cập nhật",
+      "saving": "Đang lưu...",
+      "cancel": "Hủy"
+    },
+    "toastMessages": {
+      "updateError": "Đã xảy ra lỗi khi cập nhật hạng ghế."
+    }
+  },
+
+  "viewSeatClasses": {
+    "title": "Quản lý Hạng Ghế Chuyến Bay",
+    "addNewSeatClass": "Thêm hạng ghế mới",
+    "tableHeaders": {
+      "stt": "#",
+      "name": "Tên hạng ghế",
+      "description": "Mô tả",
+      "actions": "Thao tác"
+    },
+    "noSeatClassesFound": "Không tìm thấy hạng ghế nào.",
+    "deleteConfirmModal": {
+      "title": "Xác nhận xóa hạng ghế",
+      "messagePart1": "Bạn có chắc chắn muốn xóa hạng ghế",
+      "messagePart2": "này không? Hành động này không thể hoàn tác.",
+      "deleteButton": "Xóa",
+      "deletingButton": "Đang xóa...",
+      "cancelButton": "Hủy"
+    },
+    "toastMessages": {
+      "deleteError": "Đã xảy ra lỗi khi xóa hạng ghế.",
+      "fetchError": "Có lỗi khi tải danh sách hạng ghế."
+    }
+  },
+
+  "addUserModal": {
+    "title": "Thêm Người Dùng Mới",
+    "formLabels": {
+      "fullName": "Tên đầy đủ",
+      "email": "Email",
+      "password": "Mật khẩu",
+      "phone": "Số điện thoại",
+      "address": "Địa chỉ",
+      "gender": "Giới tính",
+      "userGroup": "Nhóm người dùng"
+    },
+    "genderOptions": {
+      "select": "Chọn giới tính",
+      "male": "Nam",
+      "female": "Nữ",
+      "other": "Khác"
+    },
+    "groupOptions": {
+      "select": "Chọn nhóm"
+    },
+    "validationErrors": {
+      "fullNameRequired": "Tên đầy đủ không được để trống.",
+      "emailRequired": "Email không được để trống.",
+      "emailInvalid": "Email không hợp lệ.",
+      "passwordRequired": "Mật khẩu không được để trống.",
+      "passwordMinLength": "Mật khẩu phải có ít nhất 6 ký tự.",
+      "groupIdRequired": "Vui lòng chọn một nhóm cho người dùng."
+    },
+    "buttons": {
+      "cancel": "Hủy",
+      "add": "Thêm người dùng"
+    },
+    "toastMessages": {
+      "fetchGroupsError": "Không thể tải danh sách nhóm.",
+      "fetchGroupsConnectionError": "Lỗi kết nối khi tải danh sách nhóm.",
+      "addUserSuccess": "Thêm người dùng thành công!",
+      "addUserFailure": "Thêm người dùng thất bại.",
+      "addUserConnectionError": "Có lỗi xảy ra khi kết nối đến máy chủ. Vui lòng thử lại."
+    }
+  },
+
+  "userUpdateFormModal": {
+    "title": "Cập nhật thông tin người dùng",
+    "formLabels": {
+      "fullName": "Họ và tên",
+      "email": "Email",
+      "phone": "Số điện thoại",
+      "groupId": "Mã nhóm",
+      "birthDay": "Ngày sinh",
+      "gender": "Giới tính",
+      "address": "Địa chỉ"
+    },
+    "placeholders": {
+      "fullName": "Nhập họ và tên",
+      "emailDisabled": "Email không thể thay đổi",
+      "phone": "Nhập số điện thoại",
+      "groupId": "Nhập mã nhóm",
+      "birthDay": "DD/MM/YYYY hoặc YYYY-MM-DD",
+      "address": "Nhập địa chỉ"
+    },
+    "genderOptions": {
+      "select": "Chọn giới tính",
+      "male": "Nam",
+      "female": "Nữ",
+      "other": "Khác"
+    },
+    "validationErrors": {
+      "fullNameRequired": "Họ và tên không được để trống.",
+      "groupIdRequired": "Mã nhóm không được để trống.",
+      "userIdNotFound": "Không tìm thấy ID người dùng để cập nhật."
+    },
+    "buttons": {
+      "update": "Cập nhật",
+      "updating": "Đang cập nhật...",
+      "cancel": "Hủy"
+    },
+    "toastMessages": {
+      "updateSuccess": "Cập nhật thành công!",
+      "updateFailure": "Cập nhật thất bại.",
+      "connectionError": "Đã xảy ra lỗi khi kết nối đến máy chủ."
+    },
+    "noUserSelectedAlert": "Không có thông tin người dùng để cập nhật. Vui lòng chọn một người dùng."
+  },
+
+  "userDetailModal": {
+    "title": "Thông tin chi tiết người dùng",
+    "labels": {
+      "fullName": "Họ và tên",
+      "email": "Email",
+      "phoneNumber": "Số điện thoại",
+      "dateOfBirth": "Ngày sinh",
+      "gender": "Giới tính",
+      "address": "Địa chỉ",
+      "group": "Nhóm"
+    },
+    "notAvailable": "N/A",
+    "alert": "Không có thông tin người dùng để hiển thị.",
+    "buttonClose": "Đóng",
+    "genderOptions": {
+      "male": "Nam",
+      "female": "Nữ",
+      "other": "Khác"
+    }
+  },
+
+  "viewUsers": {
+    "title": "Quản lý Người dùng",
+    "tableHeaders": {
+      "stt": "#",
+      "userName": "Tên người dùng",
+      "email": "Email",
+      "phone": "Phone",
+      "actions": "Thao tác"
+    },
+    "placeholders": {
+      "search": "Tìm kiếm theo tên, email, hoặc số điện thoại..."
+    },
+    "buttons": {
+      "addNewUser": "Thêm người dùng mới",
+      "delete": "Xóa",
+      "deleting": "Đang xóa...",
+      "cancel": "Hủy"
+    },
+    "deleteConfirmationModal": {
+      "title": "Xác nhận xóa người dùng",
+      "messagePart1": "Bạn có chắc chắn muốn xóa tài khoản người dùng",
+      "messagePart2": "này không? Hành động này không thể hoàn tác. Và toàn bộ dữ liệu của người dùng, giỏ hàng và thông tin đơn hàng sẽ bị xóa vĩnh viễn!",
+      "deletingUser": "Đang xóa người dùng...",
+      "pleaseWait": "Vui lòng chờ trong giây lát."
+    },
+    "noPhoneNumber": "Không có",
+    "noUsersFound": "Không tìm thấy người dùng nào.",
+    "toastMessages": {
+      "fetchUsersError": "Không thể lấy danh sách người dùng.",
+      "deleteApiError": "Không thể xóa người dùng do lỗi hệ thống."
+    }
+  },
+
+  "intro_brand": {
+    "welcome": "Chào mừng đến",
+    "brandName": "JetNow",
+    "platformDescription": "Nền tảng đặt vé máy bay nhanh chóng, an toàn và tiện lợi.",
+    "features": {
+      "search": {
+        "title": "Tìm kiếm thông minh",
+        "description": "Tìm chuyến bay phù hợp với hành trình và ngân sách của bạn chỉ trong vài giây."
+      },
+      "booking": {
+        "title": "Đặt vé nhanh chóng",
+        "description": "Quy trình đặt vé được tinh gọn tối ưu để bạn hoàn tất giao dịch nhanh nhất."
+      },
+      "payment": {
+        "title": "Thanh toán an toàn",
+        "description": "Hệ thống thanh toán của chúng tôi được bảo mật tuyệt đối để bảo vệ thông tin cá nhân và tài chính của bạn."
+      },
+      "support": {
+        "title": "Hỗ trợ 24/7",
+        "description": "Đội ngũ hỗ trợ chuyên nghiệp luôn sẵn sàng giải đáp mọi thắc mắc của bạn bất cứ lúc nào."
+      }
+    }
+  }
+
+
+
+
+}

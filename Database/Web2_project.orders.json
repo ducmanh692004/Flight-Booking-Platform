@@ -1,0 +1,886 @@
+[{
+  "_id": {
+    "$oid": "688ba00f08bd24e9d3de4e71"
+  },
+  "userId": {
+    "$oid": "688ae0eab6340330eee6f733"
+  },
+  "status": "Đã hoàn tiền",
+  "paymentMethod": "PayPal",
+  "flightDepartureId": {
+    "$oid": "688b677f6fb1715381b036c0"
+  },
+  "flightComebackId": {
+    "$oid": "688b677f6fb1715381b03d7a"
+  },
+  "seatClassDepartureId": {
+    "$oid": "684c0f64351062930ad28ff5"
+  },
+  "seatClassComebackId": {
+    "$oid": "684c0f64351062930ad28ff5"
+  },
+  "peopleQuantity": {
+    "adult": 1,
+    "child": 0
+  },
+  "totalFlightDeparturePrice": {
+    "$numberDecimal": "11470120"
+  },
+  "totalFlightComebackPrice": {
+    "$numberDecimal": "13188521"
+  },
+  "totalBaggagePrice": {
+    "$numberDecimal": "279898"
+  },
+  "totalSeatDetailPrice": {
+    "$numberDecimal": "213506"
+  },
+  "discountValue": {
+    "$numberDecimal": "700000"
+  },
+  "seatDetailDataDeparture": {
+    "adults": [
+      {
+        "rowId": "688b677f6fb1715381b0372c",
+        "seat_id": "688b677f6fb1715381b03730",
+        "seatNumber": "D",
+        "row": 10,
+        "price": 92707
+      }
+    ]
+  },
+  "seatDetailDataComeback": {
+    "adults": [
+      {
+        "rowId": "688b677f6fb1715381b03d9a",
+        "seat_id": "688b677f6fb1715381b03d9f",
+        "seatNumber": "E",
+        "row": 5,
+        "price": 120799
+      }
+    ]
+  },
+  "baggageDataDeparture": {
+    "adults": [
+      {
+        "index": 0,
+        "baggage": 2
+      }
+    ],
+    "child": []
+  },
+  "baggageDataComeback": {
+    "adults": [
+      {
+        "index": 0,
+        "baggage": 3
+      }
+    ],
+    "child": []
+  },
+  "formData": {
+    "lastName": "ta",
+    "firstName": "manh",
+    "phone": "0985359043",
+    "email": "manhanh0609@gmail.com",
+    "countryCode": "+84"
+  },
+  "formDataChild": [],
+  "formDataAdult": [
+    {
+      "index": 0,
+      "title": "Ông",
+      "firstName": "Linh",
+      "lastName": "Trang",
+      "birthDay": "5",
+      "birthMonth": "10",
+      "birthYear": "2002",
+      "nationality": "Việt Nam"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-31T16:55:43.324Z"
+  },
+  "__v": 0,
+  "captureId": "1D7593989A459883X"
+},
+{
+  "_id": {
+    "$oid": "688ba20808bd24e9d3de4f2c"
+  },
+  "userId": {
+    "$oid": "688ae0eab6340330eee6f733"
+  },
+  "status": "Đã thanh toán",
+  "paymentMethod": "VNPay",
+  "flightDepartureId": {
+    "$oid": "688b677f6fb1715381b036c0"
+  },
+  "flightComebackId": null,
+  "seatClassDepartureId": {
+    "$oid": "684c0f64351062930ad28ff5"
+  },
+  "seatClassComebackId": {
+    "$oid": "684c0f64351062930ad28ff5"
+  },
+  "peopleQuantity": {
+    "adult": 1,
+    "child": 0
+  },
+  "totalFlightDeparturePrice": {
+    "$numberDecimal": "11470120"
+  },
+  "totalFlightComebackPrice": {
+    "$numberDecimal": "0"
+  },
+  "totalBaggagePrice": {
+    "$numberDecimal": "0"
+  },
+  "totalSeatDetailPrice": {
+    "$numberDecimal": "0"
+  },
+  "discountValue": {
+    "$numberDecimal": "0"
+  },
+  "seatDetailDataDeparture": {
+    "adults": [
+      {
+        "rowId": "688b677f6fb1715381b036c9",
+        "seat_id": "688b677f6fb1715381b036ca",
+        "seatNumber": "A",
+        "row": 1,
+        "price": 0
+      }
+    ]
+  },
+  "baggageDataDeparture": {
+    "adults": [
+      {
+        "index": 0,
+        "baggage": 1
+      }
+    ],
+    "child": []
+  },
+  "baggageDataComeback": null,
+  "formData": {
+    "lastName": "ta",
+    "firstName": "manh",
+    "phone": "0985359043",
+    "email": "manhanh0609@gmail.com",
+    "countryCode": "+84"
+  },
+  "formDataChild": [],
+  "formDataAdult": [
+    {
+      "index": 0,
+      "title": "Ông",
+      "firstName": "Linh",
+      "lastName": "Trang",
+      "birthDay": "5",
+      "birthMonth": "10",
+      "birthYear": "2002",
+      "nationality": "Việt Nam"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-31T17:04:08.298Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688ba369ddde36baf0410c94"
+  },
+  "userId": {
+    "$oid": "688ae0eab6340330eee6f733"
+  },
+  "status": "Đang chờ hoàn tiền",
+  "paymentMethod": "VNPay",
+  "flightDepartureId": {
+    "$oid": "688b67806fb1715381b04cb6"
+  },
+  "flightComebackId": null,
+  "seatClassDepartureId": {
+    "$oid": "684c0f64351062930ad28ff5"
+  },
+  "seatClassComebackId": {
+    "$oid": "684c0f64351062930ad28ff5"
+  },
+  "peopleQuantity": {
+    "adult": 1,
+    "child": 0
+  },
+  "totalFlightDeparturePrice": {
+    "$numberDecimal": "9418717"
+  },
+  "totalFlightComebackPrice": {
+    "$numberDecimal": "0"
+  },
+  "totalBaggagePrice": {
+    "$numberDecimal": "0"
+  },
+  "totalSeatDetailPrice": {
+    "$numberDecimal": "0"
+  },
+  "discountValue": {
+    "$numberDecimal": "0"
+  },
+  "seatDetailDataDeparture": {
+    "adults": [
+      {
+        "rowId": "688b67806fb1715381b04cbe",
+        "seat_id": "688b67806fb1715381b04cbf",
+        "seatNumber": "A",
+        "row": 1,
+        "price": 0
+      }
+    ]
+  },
+  "baggageDataDeparture": {
+    "adults": [
+      {
+        "index": 0,
+        "baggage": 1
+      }
+    ],
+    "child": []
+  },
+  "baggageDataComeback": null,
+  "formData": {
+    "lastName": "ta",
+    "firstName": "manh",
+    "phone": "0985359043",
+    "email": "manhanh0609@gmail.com",
+    "countryCode": "+84"
+  },
+  "formDataChild": [],
+  "formDataAdult": [
+    {
+      "index": 0,
+      "title": "Ông",
+      "firstName": "Linh",
+      "lastName": "Trang",
+      "birthDay": "5",
+      "birthMonth": "10",
+      "birthYear": "2002",
+      "nationality": "Việt Nam"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-31T17:10:01.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688ba3a1ddde36baf0410d02"
+  },
+  "userId": {
+    "$oid": "688ae0eab6340330eee6f733"
+  },
+  "status": "Đã hoàn tiền",
+  "paymentMethod": "PayPal",
+  "flightDepartureId": {
+    "$oid": "688b677f6fb1715381b036c0"
+  },
+  "flightComebackId": {
+    "$oid": "688b677f6fb1715381b03d7a"
+  },
+  "seatClassDepartureId": {
+    "$oid": "684c0f64351062930ad28ff5"
+  },
+  "seatClassComebackId": {
+    "$oid": "684c0f64351062930ad28ff5"
+  },
+  "peopleQuantity": {
+    "adult": 1,
+    "child": 0
+  },
+  "totalFlightDeparturePrice": {
+    "$numberDecimal": "11470120"
+  },
+  "totalFlightComebackPrice": {
+    "$numberDecimal": "13188521"
+  },
+  "totalBaggagePrice": {
+    "$numberDecimal": "0"
+  },
+  "totalSeatDetailPrice": {
+    "$numberDecimal": "0"
+  },
+  "discountValue": {
+    "$numberDecimal": "0"
+  },
+  "seatDetailDataDeparture": {
+    "adults": [
+      {
+        "rowId": "688b677f6fb1715381b036c9",
+        "seat_id": "688b677f6fb1715381b036cb",
+        "seatNumber": "B",
+        "row": 1,
+        "price": 0
+      }
+    ]
+  },
+  "seatDetailDataComeback": {
+    "adults": [
+      {
+        "rowId": "688b677f6fb1715381b03d82",
+        "seat_id": "688b677f6fb1715381b03d83",
+        "seatNumber": "A",
+        "row": 1,
+        "price": 0
+      }
+    ]
+  },
+  "baggageDataDeparture": {
+    "adults": [
+      {
+        "index": 0,
+        "baggage": 1
+      }
+    ],
+    "child": []
+  },
+  "baggageDataComeback": {
+    "adults": [
+      {
+        "index": 0,
+        "baggage": 1
+      }
+    ],
+    "child": []
+  },
+  "formData": {
+    "lastName": "ta",
+    "firstName": "manh",
+    "phone": "0985359043",
+    "email": "manhanh0609@gmail.com",
+    "countryCode": "+84"
+  },
+  "formDataChild": [],
+  "formDataAdult": [
+    {
+      "index": 0,
+      "title": "Ông",
+      "firstName": "Linh",
+      "lastName": "Trang",
+      "birthDay": "5",
+      "birthMonth": "10",
+      "birthYear": "2002",
+      "nationality": "Việt Nam"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-31T17:10:57.170Z"
+  },
+  "__v": 0,
+  "captureId": "4C947705L85391454"
+},
+{
+  "_id": {
+    "$oid": "688ba9d2008c993725402863"
+  },
+  "userId": {
+    "$oid": "688ae0eab6340330eee6f733"
+  },
+  "status": "Đang chờ hoàn tiền",
+  "paymentMethod": "VNPay",
+  "flightDepartureId": {
+    "$oid": "688b677f6fb1715381b036c0"
+  },
+  "flightComebackId": {
+    "$oid": "688b677f6fb1715381b03d7a"
+  },
+  "seatClassDepartureId": {
+    "$oid": "684c0f64351062930ad28ff5"
+  },
+  "seatClassComebackId": {
+    "$oid": "684c0f64351062930ad28ff5"
+  },
+  "peopleQuantity": {
+    "adult": 1,
+    "child": 0
+  },
+  "totalFlightDeparturePrice": {
+    "$numberDecimal": "11470120"
+  },
+  "totalFlightComebackPrice": {
+    "$numberDecimal": "13188521"
+  },
+  "totalBaggagePrice": {
+    "$numberDecimal": "0"
+  },
+  "totalSeatDetailPrice": {
+    "$numberDecimal": "0"
+  },
+  "discountValue": {
+    "$numberDecimal": "0"
+  },
+  "seatDetailDataDeparture": {
+    "adults": [
+      {
+        "rowId": "688b677f6fb1715381b036c9",
+        "seat_id": "688b677f6fb1715381b036cc",
+        "seatNumber": "C",
+        "row": 1,
+        "price": 0
+      }
+    ]
+  },
+  "seatDetailDataComeback": {
+    "adults": [
+      {
+        "rowId": "688b677f6fb1715381b03d82",
+        "seat_id": "688b677f6fb1715381b03d84",
+        "seatNumber": "B",
+        "row": 1,
+        "price": 0
+      }
+    ]
+  },
+  "baggageDataDeparture": {
+    "adults": [
+      {
+        "index": 0,
+        "baggage": 1
+      }
+    ],
+    "child": []
+  },
+  "baggageDataComeback": {
+    "adults": [
+      {
+        "index": 0,
+        "baggage": 1
+      }
+    ],
+    "child": []
+  },
+  "formData": {
+    "lastName": "ta",
+    "firstName": "manh",
+    "phone": "0985359043",
+    "email": "manhanh0609@gmail.com",
+    "countryCode": "+84"
+  },
+  "formDataChild": [],
+  "formDataAdult": [
+    {
+      "index": 0,
+      "title": "Ông",
+      "firstName": "Linh",
+      "lastName": "Trang",
+      "birthDay": "5",
+      "birthMonth": "10",
+      "birthYear": "2002",
+      "nationality": "Việt Nam"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-31T17:37:22.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688baa22008c9937254028b4"
+  },
+  "userId": {
+    "$oid": "688ae0eab6340330eee6f733"
+  },
+  "status": "Đã hoàn tiền",
+  "paymentMethod": "VNPay",
+  "flightDepartureId": {
+    "$oid": "688b677f6fb1715381b03985"
+  },
+  "flightComebackId": {
+    "$oid": "688b677f6fb1715381b03d7a"
+  },
+  "seatClassDepartureId": {
+    "$oid": "684c0f64351062930ad28ff5"
+  },
+  "seatClassComebackId": {
+    "$oid": "684c0f64351062930ad28ff5"
+  },
+  "peopleQuantity": {
+    "adult": 1,
+    "child": 0
+  },
+  "totalFlightDeparturePrice": {
+    "$numberDecimal": "14337894"
+  },
+  "totalFlightComebackPrice": {
+    "$numberDecimal": "13188521"
+  },
+  "totalBaggagePrice": {
+    "$numberDecimal": "0"
+  },
+  "totalSeatDetailPrice": {
+    "$numberDecimal": "0"
+  },
+  "discountValue": {
+    "$numberDecimal": "0"
+  },
+  "seatDetailDataDeparture": {
+    "adults": [
+      {
+        "rowId": "688b677f6fb1715381b0398d",
+        "seat_id": "688b677f6fb1715381b0398e",
+        "seatNumber": "A",
+        "row": 1,
+        "price": 0
+      }
+    ]
+  },
+  "seatDetailDataComeback": {
+    "adults": [
+      {
+        "rowId": "688b677f6fb1715381b03d82",
+        "seat_id": "688b677f6fb1715381b03d85",
+        "seatNumber": "C",
+        "row": 1,
+        "price": 0
+      }
+    ]
+  },
+  "baggageDataDeparture": {
+    "adults": [
+      {
+        "index": 0,
+        "baggage": 1
+      }
+    ],
+    "child": []
+  },
+  "baggageDataComeback": {
+    "adults": [
+      {
+        "index": 0,
+        "baggage": 1
+      }
+    ],
+    "child": []
+  },
+  "formData": {
+    "lastName": "ta",
+    "firstName": "manh",
+    "phone": "0985359043",
+    "email": "manhanh0609@gmail.com",
+    "countryCode": "+84"
+  },
+  "formDataChild": [],
+  "formDataAdult": [
+    {
+      "index": 0,
+      "title": "Ông",
+      "firstName": "Linh",
+      "lastName": "Trang",
+      "birthDay": "5",
+      "birthMonth": "10",
+      "birthYear": "2002",
+      "nationality": "Việt Nam"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-31T17:38:42.343Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688de449fa91d2b6e1c5afc3"
+  },
+  "userId": {
+    "$oid": "688ae0eab6340330eee6f733"
+  },
+  "status": "Đã thanh toán",
+  "paymentMethod": "PayPal",
+  "flightDepartureId": {
+    "$oid": "688b677f6fb1715381b03ea9"
+  },
+  "flightComebackId": {
+    "$oid": "688b677f6fb1715381b042c7"
+  },
+  "seatClassDepartureId": {
+    "$oid": "684c0f64351062930ad28ff5"
+  },
+  "seatClassComebackId": {
+    "$oid": "684c0f64351062930ad28ff5"
+  },
+  "peopleQuantity": {
+    "adult": 1,
+    "child": 0
+  },
+  "totalFlightDeparturePrice": {
+    "$numberDecimal": "15975868"
+  },
+  "totalFlightComebackPrice": {
+    "$numberDecimal": "10006234"
+  },
+  "totalBaggagePrice": {
+    "$numberDecimal": "350642"
+  },
+  "totalSeatDetailPrice": {
+    "$numberDecimal": "98349"
+  },
+  "discountValue": {
+    "$numberDecimal": "150000"
+  },
+  "seatDetailDataDeparture": {
+    "adults": [
+      {
+        "rowId": "688b677f6fb1715381b03ed9",
+        "seat_id": "688b677f6fb1715381b03edb",
+        "seatNumber": "B",
+        "row": 9,
+        "price": 98349
+      }
+    ]
+  },
+  "seatDetailDataComeback": {
+    "adults": [
+      {
+        "rowId": "688b677f6fb1715381b042cf",
+        "seat_id": "688b677f6fb1715381b042d0",
+        "seatNumber": "A",
+        "row": 1,
+        "price": 0
+      }
+    ]
+  },
+  "baggageDataDeparture": {
+    "adults": [
+      {
+        "index": 0,
+        "baggage": 2
+      }
+    ],
+    "child": []
+  },
+  "baggageDataComeback": {
+    "adults": [
+      {
+        "index": 0,
+        "baggage": 3
+      }
+    ],
+    "child": []
+  },
+  "formData": {
+    "lastName": "ta",
+    "firstName": "manh",
+    "phone": "0985359043",
+    "email": "manhanh0609@gmail.com",
+    "countryCode": "+84"
+  },
+  "formDataChild": [],
+  "formDataAdult": [
+    {
+      "index": 0,
+      "title": "Bà",
+      "firstName": "Tham",
+      "lastName": "Le",
+      "birthDay": "20",
+      "birthMonth": "2",
+      "birthYear": "1981",
+      "nationality": "Việt Nam"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-08-02T10:11:21.114Z"
+  },
+  "__v": 0,
+  "captureId": "8J127758FR340074F"
+},
+{
+  "_id": {
+    "$oid": "688de8acfa91d2b6e1c5b0d7"
+  },
+  "userId": {
+    "$oid": "688ae0eab6340330eee6f733"
+  },
+  "status": "Đã thanh toán",
+  "paymentMethod": "PayPal",
+  "flightDepartureId": {
+    "$oid": "688b677f6fb1715381b03ea9"
+  },
+  "flightComebackId": {
+    "$oid": "688b677f6fb1715381b042c7"
+  },
+  "seatClassDepartureId": {
+    "$oid": "684c0f64351062930ad28ff5"
+  },
+  "seatClassComebackId": {
+    "$oid": "684c0f64351062930ad28ff5"
+  },
+  "peopleQuantity": {
+    "adult": 1,
+    "child": 0
+  },
+  "totalFlightDeparturePrice": {
+    "$numberDecimal": "15975868"
+  },
+  "totalFlightComebackPrice": {
+    "$numberDecimal": "10006234"
+  },
+  "totalBaggagePrice": {
+    "$numberDecimal": "115640"
+  },
+  "totalSeatDetailPrice": {
+    "$numberDecimal": "144450"
+  },
+  "discountValue": {
+    "$numberDecimal": "50000"
+  },
+  "seatDetailDataDeparture": {
+    "adults": [
+      {
+        "rowId": "688b677f6fb1715381b03ede",
+        "seat_id": "688b677f6fb1715381b03ee2",
+        "seatNumber": "D",
+        "row": 10,
+        "price": 144450
+      }
+    ]
+  },
+  "seatDetailDataComeback": {
+    "adults": [
+      {
+        "rowId": "688b677f6fb1715381b042cf",
+        "seat_id": "688b677f6fb1715381b042d1",
+        "seatNumber": "B",
+        "row": 1,
+        "price": 0
+      }
+    ]
+  },
+  "baggageDataDeparture": {
+    "adults": [
+      {
+        "index": 0,
+        "baggage": 2
+      }
+    ],
+    "child": []
+  },
+  "baggageDataComeback": {
+    "adults": [
+      {
+        "index": 0,
+        "baggage": 1
+      }
+    ],
+    "child": []
+  },
+  "formData": {
+    "lastName": "ta",
+    "firstName": "manh",
+    "phone": "0985359043",
+    "email": "manhanh0609@gmail.com",
+    "countryCode": "+84"
+  },
+  "formDataChild": [],
+  "formDataAdult": [
+    {
+      "index": 0,
+      "title": "Ông",
+      "firstName": "manh",
+      "lastName": "ta",
+      "birthDay": "22",
+      "birthMonth": "10",
+      "birthYear": "1980",
+      "nationality": "Việt Nam"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-08-02T10:30:04.226Z"
+  },
+  "__v": 0,
+  "captureId": "3NW476283V381192F"
+},
+{
+  "_id": {
+    "$oid": "688df351fa91d2b6e1c5b2ff"
+  },
+  "userId": {
+    "$oid": "688ae0eab6340330eee6f733"
+  },
+  "status": "Chờ thanh toán",
+  "paymentMethod": "Chưa có",
+  "flightDepartureId": {
+    "$oid": "688b677f6fb1715381b036c0"
+  },
+  "flightComebackId": null,
+  "seatClassDepartureId": {
+    "$oid": "684c0f64351062930ad28ff5"
+  },
+  "seatClassComebackId": {
+    "$oid": "684c0f64351062930ad28ff5"
+  },
+  "peopleQuantity": {
+    "adult": 1,
+    "child": 0
+  },
+  "totalFlightDeparturePrice": {
+    "$numberDecimal": "11470120"
+  },
+  "totalFlightComebackPrice": {
+    "$numberDecimal": "0"
+  },
+  "totalBaggagePrice": {
+    "$numberDecimal": "0"
+  },
+  "totalSeatDetailPrice": {
+    "$numberDecimal": "0"
+  },
+  "discountValue": {
+    "$numberDecimal": "0"
+  },
+  "seatDetailDataDeparture": {
+    "adults": [
+      {
+        "rowId": "688b677f6fb1715381b036c9",
+        "seat_id": "688b677f6fb1715381b036cb",
+        "seatNumber": "B",
+        "row": 1,
+        "price": 0
+      }
+    ]
+  },
+  "baggageDataDeparture": {
+    "adults": [
+      {
+        "index": 0,
+        "baggage": 1
+      }
+    ],
+    "child": []
+  },
+  "baggageDataComeback": null,
+  "formData": {
+    "lastName": "ta",
+    "firstName": "manh",
+    "phone": "0985359043",
+    "email": "manhanh0609@gmail.com",
+    "countryCode": "+84"
+  },
+  "formDataChild": [],
+  "formDataAdult": [
+    {
+      "index": 0,
+      "title": "Ông",
+      "firstName": "Tham",
+      "lastName": "Le",
+      "birthDay": "20",
+      "birthMonth": "10",
+      "birthYear": "1981",
+      "nationality": "Việt Nam"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-08-02T11:15:29.171Z"
+  },
+  "__v": 0
+}]

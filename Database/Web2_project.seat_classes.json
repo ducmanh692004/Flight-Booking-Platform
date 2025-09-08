@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "684c0f64351062930ad28ff5"
+  },
+  "name": "Hạng phổ thông",
+  "description": "Hạng phổ thông với giá vé hợp lý, tiện nghi cơ bản",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684c0f64351062930ad28ff6"
+  },
+  "name": "Hạng cao cấp",
+  "description": "Ghế rộng hơn hạng phổ thông, nhiều tiện ích hơn",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684c0f64351062930ad28ff7"
+  },
+  "name": "Hạng thương gia",
+  "description": "Ghế rộng và ngả thoải mái, phục vụ chuyên nghiệp",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684c0f64351062930ad28ff8"
+  },
+  "name": "Hạng nhất",
+  "description": "Dịch vụ cao cấp nhất với ghế riêng và tiện nghi hàng đầu",
+  "__v": 0
+}]

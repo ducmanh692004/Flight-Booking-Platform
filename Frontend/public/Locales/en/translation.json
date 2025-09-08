@@ -1,0 +1,1580 @@
+{
+  "changeLanguage": {
+    "vi": "VietNamese",
+    "en": "English"
+  },
+  "header": {
+    "support": "Support",
+    "myBookings": "My Bookings",
+    "login": "Login",
+    "register": "Register",
+    "flightTickets": "Flight Tickets",
+    "airlines": "Airlines",
+    "coupons": "Coupons",
+    "airports": "Airports"
+  },
+  "personalInfo": {
+    "title": "Personal Information",
+    "fullName": "Full Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "birthDate": "Date of Birth",
+    "gender": "Gender",
+    "address": "Address",
+    "edit": "Edit",
+    "male": "Male",
+    "female": "Female",
+    "other": "Other",
+    "notUpdated": "Not updated",
+    "invalid": "Invalid"
+  },
+  "passenger": {
+    "countryPhone": "E.g., +84 901234567 where (+84) is the country code",
+    "info": "Passenger Information",
+    "adult": "Adult",
+    "child": "Child",
+    "title": "Title",
+    "lastName": "Last Name",
+    "firstName": "Middle & First Name",
+    "birthDate": "Date of Birth",
+    "nationality": "Nationality",
+    "adultNote": "Adult passenger (over 12 years old)",
+    "childNote": "Child passenger (under 12 years old)",
+    "adultCount": "Adult",
+    "childCount": "Childs",
+    "adultAgeRequirement": "Adults must be 12 years or older.",
+    "childAgeRequirement": "Children must be under 12 years old.",
+    "lastNameRequired": "Please enter last name.",
+    "lastNameExample": "Last name (e.g. Nguyen)",
+    "firstNameExample": "Middle & First Name (e.g. Thi Ngoc Anh)",
+    "cccdExample": "as on ID card (no accents)",
+    "month": "Month"
+  },
+  "introBrand": {
+    "whyBook": "Why book at JetNow",
+    "easyBooking": "Easy booking with just a few clicks",
+    "easyBookingDesc": "The platform offers a variety of flights from domestic to international, helping you easily compare and find the best-priced flight",
+    "flexibleTime": "Flexible flight time changes",
+    "flexibleTimeDesc": "You can easily select and change flight times flexibly to suit your schedule and work",
+    "easyPayment": "Easy payment with many utilities",
+    "easyPaymentDesc": "Easy and secure payment for users with a variety of popular payment methods"
+  },
+  "listCoupon": {
+    "earlyDiscount": "Discount up to 500k for early booking",
+    "discountUpTo": "Discount up to",
+    "minOrder": "Minimum order from",
+    "save": "Save"
+  },
+  "filter": {
+    "title": "Filter",
+    "reset": "Reset",
+    "stopCount": "Number of stops",
+    "nonStop": "Non-stop",
+    "oneStop": "1 stop",
+    "twoStop": "2+ transit",
+    "airlines": "Airlines",
+    "departureTime": "Departure Time",
+    "nightToMorning": "Night to Morning",
+    "morningToNoon": "Morning to Noon",
+    "noonToEvening": "Noon to Evening",
+    "eveningToNight": "Evening to Night",
+    "arrivalTime": "Arrival Time"
+  },
+  "popularDestination": {
+    "title": "Popular Destinations",
+    "domestic": "Domestic",
+    "international": "International",
+    "to": "to"
+  },
+  "refund": {
+    "cancelAndRefund": "Cancel and Refund",
+    "selectReason": "Please select the reason you want a refund. The request will be reviewed and processed based on the order's refund/cancellation policy.",
+    "orderId": "Order ID:",
+    "reason": "Refund Reason:",
+    "note": "Additional note (optional):",
+    "vnpayAlert": "Please provide your VNPay account information below so we can process your refund!",
+    "notePlaceholder": "Provide more details so we can better assist you...",
+    "reasonRequired": "Please select a refund reason!",
+    "reasons": {
+      "changePlan": "Change of personal plan",
+      "health": "Health/medical reason",
+      "work": "Work schedule change",
+      "bookingError": "Booking error (wrong date, wrong flight...)",
+      "airlineChange": "Airline changed flight schedule",
+      "other": "Other reason (please specify below)"
+    }
+  },
+  "notFound": {
+    "sorry": "Sorry, the page you are looking for does not exist.",
+    "backHome": "Back to Home"
+  },
+  "searchOrder": {
+    "title": "Order Lookup",
+    "placeholder": "Enter order ID...",
+    "search": "Search",
+    "orderIdRequired": "Order ID is required to search for information!",
+    "support": "If you need any support, please notify the business staff here"
+  },
+  "login": {
+    "emailPlaceholder": "Enter your email",
+    "passwordPlaceholder": "Enter your password",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot password?",
+    "login": "Login",
+    "or": "or",
+    "noAccount": "Don't have an account?",
+    "registerNow": "Register now",
+    "emailRequired": "Email is required",
+    "emailInvalid": "Invalid email",
+    "passwordRequired": "Password is required",
+    "passwordLength": "Password must be at least 6 characters"
+  },
+  "account": {
+    "logout": "Logout",
+    "logoutConfirm": "Are you sure you want to logout?",
+    "personalInfo": "Personal Information",
+    "orderHistory": "Order History",
+    "searchOrder": "Search Order",
+    "orderRefund": "Order Refund",
+    "changePassword": "Change Password",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "accountInfo": "Your Account Information",
+    "checkingAccount": "Checking account status...",
+    "noPassword": "Account currently has no password"
+  },
+  "payment": {
+    "title": "Payment",
+    "paymentMethod": "Payment Method",
+    "selectPaymentMethod": "Select Payment Method",
+    "creditCard": "Credit Card",
+    "creditCardDesc": "Support payment with Visa, Mastercard, JCB, UnionPay",
+    "vnpay": "VNPay",
+    "vnpayDesc": "Payment via VNPay e-wallet",
+    "paypal": "PayPal",
+    "paypalDesc": "International payment via PayPal",
+    "totalPayment": "Total Payment:",
+    "paymentSuccess": "🎉 Payment Successful!",
+    "paymentVia": "Payment via:",
+    "viewOrderHistory": "View Order History",
+    "noOrdersToPay": "Currently no orders need to be selected for payment",
+    "backToHome": "Back to Home",
+    "paymentStatus": {
+      "pending": "Pending Payment",
+      "paid": "Paid",
+      "success": "Payment Successful!",
+      "cancelled": "Cancelled"
+    },
+    "contactInfo": "Contact Information (receive tickets/payment receipts)",
+    "continueToPayment": "Continue to Payment",
+    "transactionCancelled": "Transaction has been cancelled!",
+    "paymentError": "Error occurred during payment process!",
+    "totalSelectedSeats": "Total selected seats:",
+    "selectSeatDeparture": "Departure seats total:",
+    "selectSeatReturn": "Return seats total:",
+    "selectSeatClass": "Select seat class suitable for your needs",
+    "seatSelection": "Seat Selection",
+    "booked": "Booked",
+    "available": "Available",
+    "yourSeat": "Your Seat",
+    "normalSeat": "Normal Seat",
+    "windowSeat": "Window Seat",
+    "select": "Select",
+    "chooseSeatProcess": "Choose seat process",
+    "selectFlight": "Select Flight",
+    "seatPosition": "Select seat position",
+    "selectCoupon": "Coupon",
+    "selectCouponTitle": "Select Coupon",
+    "selectCouponDesc": "Select a suitable coupon to save costs for your trip",
+    "selectedCode": "Selected:",
+    "selectCouponToSave": "Select a coupon to save costs",
+    "maximumDiscount": "Maximum discount:",
+    "minimumOrderValue": "Minimum order value:",
+    "chooseSeatReason": "Make sure to book a seat for yourself and your family so that you don't get separated from your loved ones..."
+  },
+  "order": {
+    "status": "Status",
+    "paymentMethod": "Payment Method:",
+    "cancelOrder": "Cancel Order",
+    "cancelOrderConfirm": "Cancel order and no longer pay for this order?",
+    "cancelOrderTitle": "Cancel Order",
+    "refundOrder": "Refund Order",
+    "payNow": "Pay Now",
+    "totalSeatPrice": "Total seat selection price:"
+  },
+  "formPayment": {
+    "email": "Email",
+    "emailPlaceholder": "Enter your email",
+    "emailExample": "e.g. email@example.com",
+    "emailRequired": "Please enter email.",
+    "emailInvalid": "Invalid email.",
+    "phone": "Phone Number",
+    "phoneRequired": "Please enter phone number.",
+    "phoneInvalid": "Invalid phone number.",
+    "phoneVietnam": "Vietnamese phone number must have 9 or 10 digits.",
+    "phoneUK": "UK phone number must have 10 or 11 digits.",
+    "birthDateInvalid": "Invalid date of birth.",
+    "fullNameRequired": "Full name cannot be empty.",
+    "fullNamePlaceholder": "e.g. Ta Duc Manh",
+    "lastNamePlaceholder": "e.g. Ta",
+    "firstNamePlaceholder": "e.g. Duc Manh",
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordRequired": "Please confirm new password.",
+    "confirmPasswordMismatch": "Confirm password does not match.",
+    "confirmPasswordPlaceholder": "Enter confirm password",
+    "emailCannotChange": "Email cannot be changed.",
+    "saving": "Saving...",
+    "searchAirline": "Search airline...",
+    "searchDepartureAirport": "Search departure airport...",
+    "searchArrivalAirport": "Search arrival airport...",
+    "username": "Username",
+    "usernamePlaceholder": "Enter your username",
+    "usernameRequired": "Username is required",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "passwordRequired": "Password is required",
+    "passwordMinLength": "Password must be at least 6 characters",
+    "passwordMinLength8": "Password must be at least 8 characters",
+    "currentPassword": "Current Password",
+    "currentPasswordRequired": "Please enter current password.",
+    "newPassword": "New Password",
+    "newPasswordRequired": "Please enter new password.",
+    "newPasswordMinLength": "New password must be at least 8 characters.",
+    "newPasswordDifferent": "New password cannot be the same as current password.",
+    "updatePassword": "Update Password",
+    "checkingPassword": "Checking password status...",
+    "selectGender": "Select gender",
+    "selectGroup": "Select group",
+    "selectType": "Select type",
+    "selectLayout": "Select layout",
+    "fillAllFields": "Please fill in all fields and select an image.",
+    "selectImage": "Select an image file for the province/city.",
+    "selectNewImage": "Select a new image file for the province/city. Leave blank to keep the current image.",
+    "selectLogo": "Select an image file for the logo (PNG, JPG format)",
+    "selectNewLogo": "Select a new image file for the logo (PNG, JPG format)",
+    "selectLogoRequired": "Please select a logo image for the airline.",
+    "selectUserGroup": "Please select a group for the user.",
+    "noUserInfo": "No user information to update. Please select",
+    "adultPrice": "Adult Price",
+    "childPrice": "Child Price"
+  },
+  "admin": {
+    "logout": "Logout",
+    "logoutFromAdmin": "Logout from Admin Panel!",
+    "confirmAction": "Confirm Action",
+    "confirmDeleteUser": "Confirm Delete User",
+    "confirmDeleteOrder": "Confirm Delete Order",
+    "confirmDeleteSeatClass": "Confirm Delete Seat Class",
+    "confirmDeleteCoupon": "Confirm Delete Coupon",
+    "confirmDeleteAirport": "Confirm Delete Airport",
+    "confirmDeleteFlight": "Confirm Delete Flight",
+    "confirmDeleteAirline": "Confirm Delete Airline",
+    "saveChanges": "Save Changes",
+    "search": "Search",
+    "tabs": {
+      "paid": "Paid",
+      "pending": "Pending Payment"
+    },
+    "deleteUserConfirm": "Are you sure you want to delete user account",
+    "selectUserGroup": "Select user group"
+  },
+  "otp": {
+    "confirmOTP": "Confirm OTP Code",
+    "back": "Back"
+  },
+  "flight": {
+    "changeNotification": "We will notify you of your new flight via email, push notification,",
+    "selfCancel": "Self-cancel (change of plans).",
+    "airlineCancel": "Airline cancels flight.",
+    "flexibleTime": ", flexible flight time. Quick to"
+  },
+  "cart": {
+    "payment": "payment!",
+    "continue": "Continue",
+    "selectMaxOneFlight": "Please select no more than 1 flight to",
+    "cart": "Cart",
+    "total": "Total:",
+    "departure": "Departure",
+    "details": "Details",
+    "directFlight": "Direct flight",
+    "oneStop": "1 stop",
+    "twoStops": "2 stops",
+    "moreThanThreeStops": "3+ stops",
+    "nextDay": "+1 day",
+    "roundTrip": "Round Trip",
+    "passengers": "passengers",
+    "children": "children"
+  },
+  "yourCurrentFlight": {
+    "yourFlight": "Your Flight",
+    "details": "Details",
+    "directFlight": "Direct flight",
+    "oneStop": "1 stop",
+    "twoStops": "2 stops",
+    "threeStops": "3 stops",
+    "summary": "Summary",
+    "totalAmount": "Total Amount:",
+    "departureTicket": "Departure Ticket:",
+    "returnTicket": "Return Ticket:",
+    "departureBaggage": "Departure Baggage:",
+    "returnBaggage": "Return Baggage:",
+    "selectDepartureSeat": "Select Departure Seat:",
+    "selectReturnSeat": "Select Return Seat:",
+    "discountAmount": "Discount Amount:"
+  },
+  "register": {
+    "title": "Register",
+    "registerWithGoogle": "Register with Google",
+    "registerWithFacebook": "Register with Facebook",
+    "registerWithTelegram": "Register with Telegram",
+    "registerWithOther": "Register with other method"
+  },
+  "search": {
+    "from": "From",
+    "to": "To",
+    "adultCount": "{{count}} adults",
+    "childCount": "{{count}} children",
+    "selectDepartureDate": "Select departure date",
+    "selectReturnDate": "Select return date",
+    "title": "Trusted partner for all your flight journeys",
+    "subtitle": "Daily shock prices and promotions",
+    "oneWay": "One Way",
+    "roundTrip": "Round Trip",
+    "adult": "Adult",
+    "child": "Child",
+    "adults": "adults",
+    "children": "children",
+    "departureDate": "Departure Date",
+    "returnDate": "Return Date",
+    "enterDeparture": "Enter departure point",
+    "enterDestination": "Enter destination"
+  },
+
+  "nearDestination": {
+    "title": "Favorite destinations",
+    "to": "to"
+  },
+
+  "flightType": {
+    "departure": "Departure flight",
+    "return": "Return flight"
+  },
+
+  "confirmUserFlight": {
+    "reviewYourFlight": "Review your flight",
+    "departure": "Departure",
+    "addToCartSuccess": "Product added to cart successfully!",
+    "departureDirection": "Departure",
+    "roundTrip": "Round trip",
+    "details": "Details",
+    "directFlight": "Direct flight",
+    "oneStop": "1 stop",
+    "twoStops": "2 stops",
+    "moreThanThreeStops": "3+ stops",
+    "nextDayArrival": "+1 day",
+    "total": "Total:",
+    "perPerson": "person",
+    "personCount": "people",
+    "addToCart": "Add to cart",
+    "continue": "Continue"
+  },
+
+  "findOtherFlight": {
+    "passengers": "Passengers",
+    "lowestPrice": "Lowest Price",
+    "highestPrice": "Highest Price",
+    "directFlightPriority": "Direct Flight Priority"
+  },
+  "flightResult": {
+    "select": "Select",
+    "noFlightsFound": "No flights found",
+    "detail": "Detail",
+    "refund": "Refund money",
+    "changeFlight": "Change flight",
+    "promotions": "Promotions"
+  },
+  "flightChange": {
+  "noChangeSupport": "No change support",
+  "noChangeSupportDesc": "This flight is not currently eligible for schedule changes",
+  "hasChangeSupport": "Change supported",
+  "title": "You can modify your flight based on:",
+  "reason1": "Your flight date and time",
+  "reason2": "Your travel itinerary",
+  "reason3": "Airline"
+  },
+  "flightInformation": {
+    "freeBaggage": "kg free baggage",
+    "carryOnBaggage": "kg carry-on baggage"
+  },
+  "flightSelectedInformation": {
+    "title": "Amenities included on this flight",
+    "numberFreeBaggage": "kg free baggage",
+    "numberCarryOnBaggage": "kg carry-on baggage",
+    "changeSupport": "Flight change support",
+    "no": "Not supported",
+    "yes": "Supported",
+    "refundSupport": "Refund support",
+    "close": "Close"
+  },
+  "yourFlight": {
+    "yourFlight": "Your Flight",
+    "details": "Details",
+    "directFlight": "Direct flight",
+    "oneStop": "1 stop",
+    "twoStops": "2 stops",
+    "threeStops": "3 stops",
+    "changeFlight": "Change flight"
+  },
+  "paymentForm": {
+    "payment": "Payment",
+    "paymentSuccess": "Payment successful!",
+    "transactionCancelled": "Transaction cancelled!",
+    "paymentError": "Error occurred during payment!",
+    "byClickingButton": "By clicking the submit order button",
+    "iAgree": "I agree to the",
+    "termsOfUse": "Terms of Use",
+    "and": "and",
+    "privacyPolicy": "Privacy Policy",
+    "ofJetNow": "of JetNow.",
+    "totalPayment": "Total payment:",
+    "totalBaggage": "Total baggage:",
+    "totalSelectedSeats": "Total selected seats:",
+    "totalDepartureTickets": "Total departure tickets:",
+    "totalReturnTickets": "Total return tickets:",
+    "discount": "Discount: -",
+    "noOrdersToPay": "No orders currently need to be selected for payment",
+    "backToHome": "Back to home page"
+  },
+  "detailOrderInformation": {
+    "waitingForPayment": "Waiting for payment",
+    "paymentSuccessful": "Payment successful!",
+    "cancelled": "Cancelled",
+    "departureTime": "Departure time:",
+    "amenities": "Amenities",
+    "freeBaggage": "kg free baggage",
+    "carryOnBaggage": "kg carry-on baggage",
+    "policy": "Policy",
+    "changeSupport": "Flight change support",
+    "noChangeSupport": "Flight change not supported",
+    "refundSupport": "Refund support",
+    "noRefundSupport": "Refund not supported",
+    "adult": "Adult",
+    "departure": "Departure:",
+    "seat": "Seat:",
+    "baggage": "Baggage:",
+    "pieces": "pieces",
+    "return": "Return:"
+  },
+  "contactInfo": {
+    "orderInformation": "Order Information",
+    "departure": "Departure",
+    "roundTrip": "Round Trip",
+    "booker": "Booker:",
+    "phoneNumber": "Phone Number:"
+  },
+  "passengerInfo": {
+    "passengerInformation": "Passenger Information",
+    "adult": "Adult",
+    "child": "Child"
+  },
+  "paymentSuccess": {
+    "paymentSuccessful": "🎉 Payment successful!",
+    "thankYou": "Thank you for using our service.",
+    "orderCode": "Order Code:",
+    "orderDate": "Order Date:",
+    "paymentMethod": "Payment Method:",
+    "totalAmount": "Total Amount:",
+    "status": "Status:",
+    "viewOrderHistory": "View Order History",
+    "backToHome": "Back to Home"
+  },
+  "flightRefundInfomation": {
+    "noRefundSupportTitle": "No refund support!",
+    "noRefundSupportDescription": "This flight is not currently eligible for a refund.",
+    "noRefundSupportNote": "If there is any force majeure reason, you can submit a request and wait for the airline’s approval with your refund rationale.",
+    "hasRefundSupportTitle": "Refund supported!",
+    "hasRefundSupportDescription": "This flight supports a refund of up to {{percent}}% of the ticket value.",
+    "refundPolicyTitle": "Refund policy:",
+    "refundPolicyItems": [
+      "Self-cancellation (change of plans).",
+      "Airline cancellation.",
+      "Flight significantly rescheduled by the airline (at the airline’s discretion)."
+    ]
+  },
+  "userFlightPromotion": {
+    "discountUpTo": "Discount up to",
+    "bookFrom": "Book from",
+    "flexibleTime": "Flexible time",
+    "copy": "Copy"
+  },
+  "baggage": {
+    "flightEssentials": "Flight essentials",
+    "title": "Baggage",
+    "flightsHaveBaggageInfo": "Some flights have baggage included. Choose to view.",
+    "segmentsWithoutBaggage": "One or more segments do not have baggage.",
+    "whenAddingOnePiece": "when adding one piece of baggage",
+    "addBaggage": "Add baggage",
+    "selectFlight": "Select flight",
+    "departureBaggage": "Departure baggage:",
+    "returnBaggage": "Return baggage:",
+    "passengers": "Passengers",
+    "includedFree": "Included (free)",
+    "onePiece": "1 piece",
+    "pieces": "Pieces",
+    "totalBaggage": "Total baggage",
+    "free": "(free)"
+  },
+
+  "chooseOtherSeatClass": {
+    "headerTitle": "Seat Class",
+    "headerSub": "Choose seat class that suits your needs",
+    "stepDep": "1. Departure Flight",
+    "stepRet": "2. Return Flight",
+    "dirDep": "Departure",
+    "dirRet": "Return",
+    "perPax": "/passenger",
+    "changeOk": "Change flight supported",
+    "changeNo": "Change flight not supported",
+    "refundOk": "Refund supported",
+    "refundNo": "Refund not supported"
+  },
+
+  "people": {
+    "mr": "Mr",
+    "mrs": "Mrs",
+    "ms": "Ms"
+  },
+
+  "orderDetail": {
+    "modalTitle": "Order Details",
+    "loading": "Loading...",
+    "noData": "No data",
+    "statusOrder": "Order Status",
+    "status": "Status:",
+    "paymentMethod": "Payment Method:",
+    "orderCode": "Order Code:",
+    "transactionCode": "Transaction ID:",
+    "passengerInfo": "Passenger Information",
+    "bookingCustomer": "Booking Customer:",
+    "departureTime": "Departure Time:",
+    "amenities": "Amenities",
+    "freeBaggage": "Free Baggage",
+    "carryOnBaggage": "Carry-on Baggage",
+    "policy": "Policy",
+    "changeSupport": "Change Supported",
+    "noChangeSupport": "No Change Supported",
+    "refundSupport": "Refund Supported",
+    "noRefundSupport": "No Refund Supported",
+    "detail": "Details",
+    "return": "Return",
+    "seat": "Seat",
+    "baggage": "Baggage",
+    "pieces": "piece",
+    "adult": "Adult",
+    "child": "Child",
+    "priceDetail": "Price Details",
+    "totalTicketDeparture": "Total Departure Ticket:",
+    "totalTicketReturn": "Total Return Ticket:",
+    "totalBaggagePrice": "Total Baggage Price:",
+    "totalSeatDetailPrice": "Total Seat Selection Price:",
+    "discount": "Discount:",
+    "total": "Total:",
+    "departureFlight": "Departure Flight",
+    "returnFlight": "Return Flight"
+  },
+
+  "orderHistory": {
+    "title": "Order History",
+    "orderCode": "Order Code:",
+    "oneWayFlight": "One-way flight",
+    "roundTripFlight": "Round-trip flight",
+    "returnFlight": "Return flight",
+    "passengerCount": "Number of passengers:",
+    "time": "Time:",
+    "paymentMethod": "Payment Method:",
+    "totalPrice": "Total Price",
+    "payNow": "Pay Now",
+    "details": "Details",
+    "cancelOrder": "Cancel Order",
+    "cancelAndRefund": "Cancel and Refund",
+    "noOrder": "No orders have been placed",
+    "status": {
+      "paid": "Paid",
+      "pending": "Pending Payment",
+      "refundPending": "Refund Pending"
+    }
+  },
+
+  "orderRefund": {
+    "title": "Refund Orders",
+    "loading": "Loading refund requests...",
+    "noData": "No refund requests.",
+    "tableHeaders": {
+      "number": "#",
+      "orderCode": "Order Code",
+      "refundAmount": "Refund Amount",
+      "status": "Status",
+      "time": "Time",
+      "actions": ""
+    },
+    "detailsButton": "Details",
+    "status": {
+      "pendingRefund": "Pending refund",
+      "refunded": "Refunded"
+    }
+  },
+  "registerForm": {
+    "signUp": "Sign Up",
+    "usernameLabel": "Username",
+    "usernamePlaceholder": "Enter your username",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Enter your email",
+    "passwordLabel": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "confirmPasswordLabel": "Confirm Password",
+    "confirmPasswordPlaceholder": "Enter confirm password",
+    "registerButton": "Register",
+    "orRegisterWith": "or sign up with",
+    "errorUsernameRequired": "Username is required",
+    "errorEmailRequired": "Email is required",
+    "errorEmailInvalid": "Email is invalid",
+    "errorPasswordRequired": "Password is required",
+    "errorPasswordMin": "Password must be at least 6 characters",
+    "errorConfirmPasswordRequired": "Confirm password is required",
+    "errorConfirmPasswordInvalid": "Confirm password does not match",
+    "errorFacebookAccountExists": "Your Facebook email already exists in another account!"
+  },
+
+  "forgotPassword": {
+    "headerTitle": "Forgot Password",
+    "description": "Enter your email to reset your password",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Enter your email",
+    "sendOtpButton": "Send OTP",
+    "errorInvalidEmail": "Invalid email",
+    "altBackground": "background"
+  },
+
+  "otpForgetPassword": {
+    "headerTitle": "OTP Verification",
+    "description": "Please check your email",
+    "and": "and enter OTP",
+    "otpLabel": "OTP Code (6 digits)",
+    "submitButton": "Verify OTP",
+    "timerText": "OTP valid for:",
+    "resendOtp": "Resend OTP",
+    "errorInvalidOtp": "OTP must be 6 digits",
+    "altBackground": "background",
+    "exprerOtp": "OTP has expired or is incorrect",
+    "fail": "Send otp fail"
+  },
+
+  "resetPassword": {
+    "headerTitle": "Reset Password",
+    "description": "Enter your new password",
+    "newPasswordLabel": "New Password",
+    "newPasswordPlaceholder": "Enter new password",
+    "updateButton": "Update Password",
+    "backLink": "Go Back",
+    "errorPasswordMin": "Password must be at least 6 characters",
+    "errorSystem": "System error, please try again later.",
+    "altBackground": "background"
+  },
+  "failSearchDestinationSuggestion": "No destination suggestions found",
+
+  "paymentMethodContent": {
+    "paypalTitle": "Pay with PayPal",
+    "paypalContent": "You will be redirected to the PayPal payment gateway to complete the transaction",
+    "vnpaytitle": "Payment with VNPAY",
+    "vnpayContent": "You will be redirected to the VNPAY payment gateway to complete the transaction",
+    "altBackground": "background"
+  },
+
+  "sendSupport": {
+    "title": "Support",
+    "Email": "Email (optional)",
+    "content": "Content of support",
+    "send": "Send",
+    "contentPlaceholder": "Type your support description or questions for support"
+  },
+
+  "dashboard": {
+    "title": "System Management Dashboard",
+    "totalFlights": "Total Flights",
+    "bookedFlights": "Booked Flights",
+    "paidFlights": "Paid Flights",
+    "canceledFlights": "Canceled Flights",
+    "totalRevenue": "Total Revenue",
+    "totalAirlines": "Total Airlines",
+    "totalAirports": "Total Airports"
+  },
+
+  "adminSidebar": {
+    "adminTitle": "Admin",
+    "dashboard": "Dashboard",
+    "users": "Users",
+    "orders": "Orders",
+    "flights": "Flights",
+    "seatClasses": "Seat Classes",
+    "discountCodes": "Discount Codes",
+    "airports": "Airports",
+    "airlines": "Airlines",
+    "refundRequests": "Refund Requests",
+    "managePermissions": "Manage Roles",
+    "supportRequests": "Support Requests",
+    "language": "Language",
+    "logout": "Logout",
+    "confirmLogout": "Confirm Logout",
+    "logoutConfirmationText": "Are you sure you want to log out of the Admin Panel?",
+    "logoutButton": "Logout",
+    "cancelButton": "Cancel"
+  },
+
+  "languageModal": {
+    "selectLanguage": "Select Language",
+    "english": "English",
+    "vietnamese": "Vietnamese",
+    "closeButton": "Close"
+  },
+
+  "supportRequests": {
+    "pageTitle": "Support Requests List",
+    "errorLoadingList": "Error loading support list.",
+    "errorCallingApi": "Error calling API.",
+    "deleteFailed": "Delete failed.",
+    "errorDeletingRequest": "Error deleting support request.",
+    "tableHeader": {
+      "dateCreated": "Date Created",
+      "contactEmail": "Contact Email",
+      "content": "Content",
+      "actions": "Actions"
+    },
+    "noRequestsFound": "No support requests found.",
+    "detailModal": {
+      "title": "Support Request Details",
+      "contactEmail": "Contact Email",
+      "content": "Content",
+      "closeButton": "Close"
+    },
+    "deleteModal": {
+      "title": "Confirm Deletion",
+      "confirmationText": "Are you sure you want to delete this request? This action cannot be undone.",
+      "deleteButton": "Delete",
+      "cancelButton": "Cancel"
+    }
+  },
+
+  "addAirlineModal": {
+    "title": "Add New Airline",
+    "form": {
+      "airlineName": "Airline Name",
+      "placeholderName": "Enter airline name",
+      "country": "Country",
+      "placeholderCountry": "Enter country",
+      "logo": "Logo",
+      "logoPreviewAlt": "Logo Preview Image",
+      "logoHelpText": "Select an image file for the logo (PNG, JPG, JPEG format)."
+    },
+    "buttons": {
+      "processing": "Processing...",
+      "addNew": "Add New",
+      "cancel": "Cancel"
+    },
+    "validation": {
+      "selectLogo": "Please select a logo image for the airline."
+    },
+    "errors": {
+      "apiCallFailed": "Error calling API."
+    }
+  },
+
+  "updateAirlineModal": {
+    "title": "Update Airline",
+    "form": {
+      "airlineName": "Airline Name",
+      "placeholderName": "Enter airline name",
+      "country": "Country",
+      "placeholderCountry": "Enter country",
+      "logo": "Logo",
+      "logoPreviewAlt": "Logo Preview Image",
+      "logoHelpText": "Select a new image file for the logo (PNG, JPG, JPEG format). Leave empty if you don't want to change it."
+    },
+    "buttons": {
+      "processing": "Updating...",
+      "update": "Update",
+      "cancel": "Cancel"
+    },
+    "validation": {
+      "emptyFields": "Airline Name and Country cannot be empty."
+    },
+    "errors": {
+      "apiCallFailed": "An error occurred during update."
+    }
+  },
+
+  "viewAirlines": {
+    "title": "Airline Management",
+    "addNewAirlineButton": "Add New Airline",
+    "table": {
+      "colNo": "#",
+      "colLogo": "Logo",
+      "colAirlineName": "Airline Name",
+      "colCountry": "Country",
+      "colActions": "Actions",
+      "noAirlinesFound": "No airlines found."
+    },
+    "deleteConfirmModal": {
+      "title": "Confirm Airline Deletion",
+      "message": "Are you sure you want to delete the airline",
+      "messageSuffix": "? This action cannot be undone.",
+      "deleting": "Deleting...",
+      "deleteButton": "Delete",
+      "cancelButton": "Cancel"
+    },
+    "errors": {
+      "deleteFailed": "An error occurred while deleting the airline."
+    }
+  },
+  "pagination": {
+    "next": "next",
+    "previous": "previous"
+  },
+
+  "addAirport": {
+    "modalTitle": "Add New Airport",
+    "form": {
+      "airportNameLabel": "Airport Name:",
+      "airportNamePlaceholder": "Enter airport name",
+      "iataCodeLabel": "IATA Code:",
+      "iataCodePlaceholder": "Enter IATA code",
+      "countryLabel": "Country:",
+      "countryPlaceholder": "Enter country",
+      "provinceLabel": "Province/City:",
+      "provincePlaceholder": "Enter province/city",
+      "timeZoneLabel": "Time Zone:",
+      "timeZonePlaceholder": "Enter time zone (e.g., +07:00)",
+      "imageProvinceLabel": "Province/City Image:",
+      "imageProvinceAlt": "Province/City Image Preview",
+      "imageProvinceHelpText": "Select an image file for the province/city."
+    },
+    "buttons": {
+      "processing": "Processing...",
+      "addNew": "Add New",
+      "cancel": "Cancel"
+    },
+    "validation": {
+      "allFieldsRequired": "Please fill in all fields and select an image."
+    },
+    "errors": {
+      "addAirportFailedConsole": "Error adding airport:",
+      "addAirportFailedToast": "An error occurred while adding the airport."
+    }
+  },
+
+  "updateAirport": {
+    "modalTitle": "Update Airport",
+    "form": {
+      "airportNameLabel": "Airport Name:",
+      "airportNamePlaceholder": "Enter airport name",
+      "iataCodeLabel": "IATA Code:",
+      "iataCodePlaceholder": "Enter IATA code",
+      "countryLabel": "Country:",
+      "countryPlaceholder": "Enter country",
+      "provinceLabel": "Province/City:",
+      "provincePlaceholder": "Enter province/city",
+      "timeZoneLabel": "Time Zone:",
+      "timeZonePlaceholder": "Enter time zone (e.g., +07:00)",
+      "imageProvinceLabel": "Province/City Image:",
+      "imageProvinceAlt": "Province/City Image Preview/Current",
+      "imageProvinceHelpText": "Select a new image file for the province/city. Leave blank if you don't want to change the image."
+    },
+    "buttons": {
+      "processing": "Updating...",
+      "update": "Update",
+      "cancel": "Cancel"
+    },
+    "validation": {
+      "allFieldsRequired": "Please fill in all fields."
+    },
+    "errors": {
+      "updateAirportFailedConsole": "Error updating airport:",
+      "updateAirportFailedToast": "An error occurred while updating the airport."
+    }
+  },
+
+  "viewAirports": {
+    "mainTitle": "Airport Management",
+    "buttons": {
+      "addNewAirport": "Add New Airport",
+      "delete": "Delete",
+      "deleting": "Deleting...",
+      "cancel": "Cancel"
+    },
+    "deleteModal": {
+      "title": "Confirm Airport Deletion",
+      "confirmationText": "Are you sure you want to delete the airport",
+      "irrevocableText": "This action cannot be undone."
+    },
+    "tableHeaders": {
+      "airportName": "Airport Name",
+      "iataCode": "IATA Code",
+      "country": "Country",
+      "province": "Province/City",
+      "timeZone": "Time Zone",
+      "actions": "Actions"
+    },
+    "noAirportsFound": "No airports found.",
+    "pagination": {
+      "previous": "Previous",
+      "next": "Next"
+    },
+    "errors": {
+      "deleteAirportFailedConsole": "Error deleting airport:",
+      "deleteAirportFailedToast": "An error occurred while deleting the airport!",
+      "fetchAirportsFailedConsole": "Error fetching airports:",
+      "fetchAirportsFailedToast": "An error occurred while fetching the airport list!"
+    }
+  },
+
+  "viewAirportDetails": {
+    "modalTitle": "Airport Details",
+    "airportNameLabel": "Airport Name",
+    "iataCodeLabel": "IATA Code",
+    "countryLabel": "Country",
+    "provinceLabel": "Province/City",
+    "timeZoneLabel": "Time Zone",
+    "imageAlt": "Image of {{province}}",
+    "imageDescription": "Province/City image",
+    "noImageMessage": "No province/city image available",
+    "closeButton": "Close"
+  },
+
+  "addCoupon": {
+    "modalTitle": "Add New Coupon",
+    "form": {
+      "percentLabel": "Discount Percentage",
+      "percentPlaceholder": "Enter discount percentage (e.g., 10)",
+      "codeLabel": "Coupon Code",
+      "codePlaceholder": "Enter coupon code (e.g., NEWYEAR2025)",
+      "maxDiscountLabel": "Maximum Discount",
+      "maxDiscountPlaceholder": "Enter maximum discount amount",
+      "minOrderPriceLabel": "Minimum Order Price",
+      "minOrderPricePlaceholder": "Enter minimum order price for application",
+      "convertedValueLabel": "Converted Value"
+    },
+    "buttons": {
+      "saving": "Saving...",
+      "addNew": "Add New",
+      "cancel": "Cancel"
+    },
+    "errors": {
+      "addCouponFailedConsole": "Error adding coupon:",
+      "addCouponFailedToast": "An error occurred while adding the coupon."
+    }
+  },
+
+  "updateCoupon": {
+    "modalTitle": "Update Coupon",
+    "form": {
+      "percentLabel": "Discount Percentage",
+      "codeLabel": "Coupon Code",
+      "maxDiscountLabel": "Maximum Discount",
+      "minOrderPriceLabel": "Minimum Order Price",
+      "convertedValueLabel": "Converted Value"
+    },
+    "buttons": {
+      "saving": "Saving...",
+      "update": "Update",
+      "cancel": "Cancel"
+    },
+    "errors": {
+      "updateCouponFailedConsole": "Error updating coupon:",
+      "updateCouponFailedToast": "An error occurred while updating the coupon."
+    }
+  },
+
+  "viewCoupons": {
+    "title": "Coupon Management",
+    "buttons": {
+      "addNewCoupon": "Add New Coupon",
+      "deleting": "Deleting...",
+      "delete": "Delete",
+      "cancel": "Cancel"
+    },
+    "deleteModal": {
+      "title": "Confirm Delete Coupon",
+      "body": "Are you sure you want to delete coupon {{code}}? This action cannot be undone."
+    },
+    "table": {
+      "percentCol": "Discount Percent",
+      "codeCol": "Coupon Code",
+      "maxDiscountCol": "Max Discount",
+      "minOrderPriceCol": "Min Order Price",
+      "actionsCol": "Actions",
+      "noCouponsFound": "No coupons found."
+    },
+    "pagination": {
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "errors": {
+      "deleteCouponFailedConsole": "Error deleting coupon:",
+      "deleteCouponFailedToast": "An error occurred while deleting the coupon.",
+      "fetchCouponsFailed": "An error occurred while fetching coupon data."
+    }
+  },
+
+  "addFlightForm": {
+    "errors": {
+      "fetchSeatClassUtils": "Error fetching seat class or utilities data:",
+      "searchAirport": "Error searching for airport:",
+      "searchAirline": "Error searching for airline:",
+      "fetchDataGeneral": "Error fetching data:"
+    },
+    "seatClassSection": {
+      "header": "Seat Class & Utilities",
+      "addSeatClassBtn": "+ Add Seat Class",
+      "seatHeader": "Seat Class #{{index}}",
+      "deleteButton": "Delete",
+      "seatTypeLabel": "Seat Class Type",
+      "selectTypeOption": "Select type",
+      "totalSeatsLabel": "Total Seats",
+      "cabinLayoutLabel": "Cabin Layout",
+      "selectLayoutOption": "Select layout",
+      "adultTicketPriceLabel": "Adult Ticket Price",
+      "convertedValueLabel": "Converted Value",
+      "childTicketPriceLabel": "Child Ticket Price",
+      "carryOnBaggageLabel": "Carry-on Baggage (kg)",
+      "freeCheckedBaggageLabel": "Free Checked Baggage (kg)",
+      "maxCheckedBaggageWeightLabel": "Max Checked Baggage Weight (kg)",
+      "extraBaggagePriceLabel": "Price per Extra Baggage",
+      "changeFlightLabel": "Change Flight",
+      "changeFlightNo": "No",
+      "changeFlightYes": "Yes",
+      "refundPercentLabel": "Refund (%)",
+      "windowSeatPriceLabel": "Window Seat Price",
+      "normalSeatPriceLabel": "Normal Seat Price",
+      "utilitiesLabel": "Utilities"
+    },
+
+    "validation": {
+      "fullDataRequired": "Please enter full flight data!"
+    },
+    "title": "Add New Flight",
+    "basicInfo": {
+      "title": "Basic Information",
+      "flightNumber": "Flight Number",
+      "airline": "Airline",
+      "searchAirlinePlaceholder": "Search airline..."
+    },
+    "segments": {
+      "title": "Flight Segments",
+      "addSegmentButton": "+ Add Segment",
+      "segmentNumber": "Segment {{number}}",
+      "deleteButton": "Delete",
+      "departureAirport": "Departure Airport",
+      "searchDepartureAirportPlaceholder": "Search departure airport..."
+    },
+
+    "arrivalAirportLabel": "Arrival Airport",
+    "arrivalAirportPlaceholder": "Search arrival airport...",
+    "departureTimeLabel": "Departure Time",
+    "arrivalTimeLabel": "Arrival Time",
+    "addFlightButton": "Add Flight",
+    "cancelButton": "Cancel"
+  },
+
+  "editFlightForm": {
+    "errorLoadingFlightData": "Error loading flight data",
+    "updateSuccess": "Flight updated successfully!",
+    "updateError": "Error updating flight",
+    "submitError": "An error occurred while submitting data",
+    "modalTitle": "Edit Flight",
+    "flightInfoTitle": "Flight Information",
+    "flightCodeLabel": "Flight Code",
+    "airlineLabel": "Airline",
+    "segmentsTitle": "Flight Segments",
+    "segment": "Segment {{number}}",
+    "departurePointLabel": "Departure Point",
+    "arrivalPointLabel": "Arrival Point",
+    "departureTimeLabel": "Departure Time",
+    "arrivalTimeLabel": "Arrival Time",
+    "seatClassInfoTitle": "Seat Class Information",
+    "adultPriceLabel": "Adult Price",
+    "childPriceLabel": "Child Price",
+    "carryOnBaggageLabel": "Carry-on Baggage (kg)",
+    "extraBaggagePriceLabel": "Price for extra baggage",
+    "refundPercentageLabel": "Refund (%)",
+    "freeBaggageLabel": "Free Baggage (kg)",
+    "maxBaggageWeightLabel": "Max Baggage Weight (kg)",
+    "allowRefundLabel": "Allow Refund",
+    "utilitiesLabel": "Utilities",
+    "saveChangesButton": "Save Changes",
+    "cancelButton": "Cancel"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "notApplicable": "N/A",
+    "status": "Status",
+    "active": "Active",
+    "inactive": "Inactive",
+    "yes": "Yes",
+    "no": "No",
+    "close": "Close"
+  },
+
+  "flightDetailModal": {
+    "noFlightIdProvided": "No flight ID provided.",
+    "failedToLoadFlightDetails": "Failed to load flight details.",
+    "errorLoadingData": "An error occurred while loading data.",
+    "invalidDate": "Invalid date",
+    "flightDetails": "Flight Details",
+    "loadingFlightDetails": "Loading flight details...",
+    "noFlightInfoFound": "No flight information found. Please try again.",
+    "generalInformation": "General Information",
+    "flight": "Flight",
+    "airline": "Airline",
+    "flightNumber": "Flight Number",
+    "departureDate": "Departure Date",
+    "airlineLogo": "Airline Logo",
+    "flightSegments": "Flight Segments ({{count}})",
+    "segment": "Segment {{index}}",
+    "departure": "Departure",
+    "arrival": "Arrival",
+    "takeoffTime": "Takeoff Time",
+    "landingTime": "Landing Time",
+    "noSegmentInfo": "No flight segment information available.",
+    "seatClassPriceInfo": "Seat Class & Price Information ({{count}})",
+    "seatClass": "Seat Class",
+    "adultPrice": "Adult Price",
+    "childPrice": "Child Price",
+    "maxSeats": "Maximum Seats",
+    "remainingSeats": "Remaining Seats",
+    "carryOnBaggage": "Carry-on Baggage",
+    "freeCheckedBaggage": "Free Checked Baggage",
+    "maxCheckedBaggage": "Maximum Checked Baggage",
+    "excessBaggagePrice": "Excess Baggage Price",
+    "changeFlight": "Flight Change",
+    "refundPercentage": "Refund (%)",
+    "utilities": "Utilities"
+  },
+
+  "viewFlights": {
+    "title": "Flight Management",
+    "addNewButton": "Add New Flight",
+    "table": {
+      "hash": "#",
+      "airline": "Airline",
+      "flightNumber": "Flight Number",
+      "route": "Route",
+      "status": "Status",
+      "actions": "Actions",
+      "noFlightsFound": "No flights found."
+    },
+    "status": {
+      "active": "Active",
+      "inactive": "Inactive"
+    },
+    "deleteModal": {
+      "title": "Confirm Flight Deletion",
+      "message": "Are you sure you want to delete flight with ID ",
+      "messageSuffix": " ? This action cannot be undone.",
+      "deleteButton": "Delete",
+      "deletingButton": "Deleting...",
+      "cancelButton": "Cancel"
+    },
+    "pagination": {
+      "next": "Next",
+      "previous": "Previous"
+    }
+  },
+
+  "addGroupModal": {
+    "title": "Add New User Group",
+    "form": {
+      "nameLabel": "Group Name",
+      "namePlaceholder": "Enter group name",
+      "descriptionLabel": "Description",
+      "descriptionPlaceholder": "Enter group description"
+    },
+    "addButton": "Add Group",
+    "cancelButton": "Cancel",
+    "validation": {
+      "fillAllFields": "Please fill in all fields",
+      "serverError": "Server error"
+    }
+  },
+
+  "addRoleModal": {
+    "title": "Add New Role",
+    "form": {
+      "urlLabel": "URL",
+      "urlPlaceholder": "Enter role URL",
+      "descriptionLabel": "Description",
+      "descriptionPlaceholder": "Enter role description"
+    },
+    "addButton": "Add Role",
+    "cancelButton": "Cancel",
+    "validation": {
+      "fillAllFields": "Please fill in all fields",
+      "serverError": "Server error"
+    }
+  },
+
+  "deleteRoleModal": {
+    "title": "Confirm Delete Role",
+    "message": "Are you sure you want to delete this role:",
+    "deleteButton": "Delete",
+    "cancelButton": "Cancel",
+    "successMessage": "Role deleted successfully",
+    "errorMessage": "Error deleting role",
+    "somethingWentWrong": "Something went wrong"
+  },
+
+  "updateRoleModal": {
+    "title": "Update Role",
+    "form": {
+      "nameLabel": "Role Name",
+      "urlLabel": "URL"
+    },
+    "saveButton": "Save Changes",
+    "cancelButton": "Cancel",
+    "successMessage": "Role updated successfully",
+    "errorMessage": "Update failed",
+    "somethingWentWrong": "Something went wrong"
+  },
+
+  "viewListRole": {
+    "title": "User Permission Management",
+    "selectGroupPlaceholder": "Select user group",
+    "addRoleButton": "Add New Role",
+    "addGroupButton": "Add New Group",
+    "updatePermissionsButton": "Update Permissions",
+    "messages": {
+      "fetchRoleSuccess": "Successfully fetched roles",
+      "fetchGroupSuccess": "Successfully fetched groups",
+      "updateRoleOfGroupSuccess": "Group roles updated successfully",
+      "errorFetchingRole": "Error fetching roles",
+      "errorFetchingGroup": "Error fetching groups",
+      "errorUpdatingRoleOfGroup": "Error updating group roles",
+      "errorGettingRoleOfGroup": "Error getting group roles"
+    }
+  },
+
+  "viewOrder": {
+    "title": "Flight Order List",
+    "tableHeaders": {
+      "stt": "#",
+      "customer": "Customer",
+      "journey": "Journey",
+      "totalAmount": "Total Amount",
+      "orderDate": "Order Date",
+      "paymentMethod": "Payment Method",
+      "actions": "Actions"
+    },
+    "statusTabs": {
+      "paymentSuccess": "Paid",
+      "paymentPending": "Pending Payment",
+      "refundSuccess": "Refunded"
+    },
+    "journeyTypes": {
+      "roundTrip": "(Round Trip)",
+      "oneWay": "(One Way)"
+    },
+    "deleteModal": {
+      "title": "Confirm Order Deletion",
+      "body": "Are you sure you want to delete this order from the customer?",
+      "deleteButton": "Delete",
+      "deletingButton": "Deleting...",
+      "cancelButton": "Cancel"
+    },
+    "noOrdersFound": "No orders found.",
+    "pagination": {
+      "previous": "Previous",
+      "next": "Next"
+    },
+    "toastMessages": {
+      "fetchOrdersError": "Error loading order list",
+      "deleteOrderSuccess": "Order deleted successfully",
+      "deleteOrderError": "Error deleting order",
+      "somethingWentWrong": "Something went wrong"
+    }
+  },
+
+  "viewRefundRequests": {
+    "title": "Refund Requests",
+    "tableHeaders": {
+      "stt": "#",
+      "reason": "Reason",
+      "note": "Note",
+      "refundAmount": "Refund Amount",
+      "status": "Status",
+      "requestDate": "Request Date",
+      "actions": "Actions"
+    },
+    "status": {
+      "pending": "Pending Refund",
+      "refunded": "Refunded",
+      "rejected": "Rejected"
+    },
+    "actionButtons": {
+      "refund": "Refund",
+      "reject": "Reject"
+    },
+    "noRequestsFound": "No refund requests found.",
+    "pagination": {
+      "previous": "Previous",
+      "next": "Next"
+    },
+    "confirmModal": {
+      "title": "Confirm Action",
+      "approveText": "refund",
+      "rejectText": "reject refund",
+      "bodyPart1": "Are you sure you want to",
+      "bodyPart2": "this request? This action cannot be undone.",
+      "confirmButton": "Confirm",
+      "confirmingButton": "Processing...",
+      "cancelButton": "Cancel"
+    },
+    "toastMessages": {
+      "fetchError": "Could not load refund list",
+      "serverConnectError": "Server connection error",
+      "serverProcessError": "Server error processing request"
+    }
+  },
+
+  "addSeatClass": {
+    "title": "Add New Seat Class",
+    "formLabels": {
+      "name": "Seat Class Name",
+      "description": "Description"
+    },
+    "placeholders": {
+      "name": "Enter seat class name (e.g., Economy)",
+      "description": "Enter description for the seat class"
+    },
+    "buttons": {
+      "add": "Add New",
+      "saving": "Saving...",
+      "cancel": "Cancel"
+    },
+    "toastMessages": {
+      "addError": "An error occurred while adding seat class."
+    }
+  },
+
+  "updateSeatClass": {
+    "title": "Update Seat Class",
+    "formLabels": {
+      "name": "Seat Class Name",
+      "description": "Description"
+    },
+    "placeholders": {
+      "name": "Enter seat class name",
+      "description": "Enter description"
+    },
+    "buttons": {
+      "update": "Update",
+      "saving": "Saving...",
+      "cancel": "Cancel"
+    },
+    "toastMessages": {
+      "updateError": "An error occurred while updating seat class."
+    }
+  },
+
+  "viewSeatClasses": {
+    "title": "Manage Flight Seat Classes",
+    "addNewSeatClass": "Add new seat class",
+    "tableHeaders": {
+      "stt": "#",
+      "name": "Seat Class Name",
+      "description": "Description",
+      "actions": "Actions"
+    },
+    "noSeatClassesFound": "No seat classes found.",
+    "deleteConfirmModal": {
+      "title": "Confirm Delete Seat Class",
+      "messagePart1": "Are you sure you want to delete the seat class",
+      "messagePart2": "? This action cannot be undone.",
+      "deleteButton": "Delete",
+      "deletingButton": "Deleting...",
+      "cancelButton": "Cancel"
+    },
+    "toastMessages": {
+      "deleteError": "An error occurred while deleting the seat class.",
+      "fetchError": "Error fetching seat classes."
+    }
+  },
+
+  "addUserModal": {
+    "title": "Add New User",
+    "formLabels": {
+      "fullName": "Full Name",
+      "email": "Email",
+      "password": "Password",
+      "phone": "Phone Number",
+      "address": "Address",
+      "gender": "Gender",
+      "userGroup": "User Group"
+    },
+    "genderOptions": {
+      "select": "Select Gender",
+      "male": "Male",
+      "female": "Female",
+      "other": "Other"
+    },
+    "groupOptions": {
+      "select": "Select Group"
+    },
+    "validationErrors": {
+      "fullNameRequired": "Full name cannot be empty.",
+      "emailRequired": "Email cannot be empty.",
+      "emailInvalid": "Invalid email address.",
+      "passwordRequired": "Password cannot be empty.",
+      "passwordMinLength": "Password must be at least 6 characters.",
+      "groupIdRequired": "Please select a group for the user."
+    },
+    "buttons": {
+      "cancel": "Cancel",
+      "add": "Add User"
+    },
+    "toastMessages": {
+      "fetchGroupsError": "Could not load group list.",
+      "fetchGroupsConnectionError": "Connection error while loading group list.",
+      "addUserSuccess": "User added successfully!",
+      "addUserFailure": "Failed to add user.",
+      "addUserConnectionError": "An error occurred while connecting to the server. Please try again."
+    }
+  },
+
+  "userUpdateFormModal": {
+    "title": "Update User Information",
+    "formLabels": {
+      "fullName": "Full Name",
+      "email": "Email",
+      "phone": "Phone Number",
+      "groupId": "Group ID",
+      "birthDay": "Date of Birth",
+      "gender": "Gender",
+      "address": "Address"
+    },
+    "placeholders": {
+      "fullName": "Enter full name",
+      "emailDisabled": "Email cannot be changed",
+      "phone": "Enter phone number",
+      "groupId": "Enter group ID",
+      "birthDay": "DD/MM/YYYY or YYYY-MM-DD",
+      "address": "Enter address"
+    },
+    "genderOptions": {
+      "select": "Select Gender",
+      "male": "Male",
+      "female": "Female",
+      "other": "Other"
+    },
+    "validationErrors": {
+      "fullNameRequired": "Full name cannot be empty.",
+      "groupIdRequired": "Group ID cannot be empty.",
+      "userIdNotFound": "User ID not found for update."
+    },
+    "buttons": {
+      "update": "Update",
+      "updating": "Updating...",
+      "cancel": "Cancel"
+    },
+    "toastMessages": {
+      "updateSuccess": "Update successful!",
+      "updateFailure": "Update failed.",
+      "connectionError": "An error occurred while connecting to the server."
+    },
+    "noUserSelectedAlert": "No user information to update. Please select a user."
+  },
+
+  "userDetailModal": {
+    "title": "User Details",
+    "labels": {
+      "fullName": "Full Name",
+      "email": "Email",
+      "phoneNumber": "Phone Number",
+      "dateOfBirth": "Date of Birth",
+      "gender": "Gender",
+      "address": "Address",
+      "group": "Group"
+    },
+    "notAvailable": "N/A",
+    "alert": "No user information to display.",
+    "buttonClose": "Close",
+    "genderOptions": {
+      "male": "Male",
+      "female": "Female",
+      "other": "Other"
+    }
+  },
+
+  "viewUsers": {
+    "title": "User Management",
+    "tableHeaders": {
+      "stt": "#",
+      "userName": "User Name",
+      "email": "Email",
+      "phone": "Phone",
+      "actions": "Actions"
+    },
+    "placeholders": {
+      "search": "Search by name, email, or phone number..."
+    },
+    "buttons": {
+      "addNewUser": "Add New User",
+      "delete": "Delete",
+      "deleting": "Deleting...",
+      "cancel": "Cancel"
+    },
+    "deleteConfirmationModal": {
+      "title": "Confirm User Deletion",
+      "messagePart1": "Are you sure you want to delete this user account",
+      "messagePart2": "? This action cannot be undone. All user data, carts, and order information will be permanently deleted!",
+      "deletingUser": "Deleting user...",
+      "pleaseWait": "Please wait a moment."
+    },
+    "noPhoneNumber": "N/A",
+    "noUsersFound": "No users found.",
+    "toastMessages": {
+      "fetchUsersError": "Could not retrieve user list.",
+      "deleteApiError": "Could not delete user due to system error."
+    }
+  },
+
+  "intro_brand": {
+    "welcome": "Welcome to",
+    "brandName": "JetNow",
+    "platformDescription": "A fast, secure and convenient flight booking platform.",
+    "features": {
+      "search": {
+        "title": "Smart Search",
+        "description": "Find the flights that best match your itinerary and budget in seconds."
+      },
+      "booking": {
+        "title": "Fast Booking",
+        "description": "A streamlined booking process optimized for your fastest checkout."
+      },
+      "payment": {
+        "title": "Secure Payment",
+        "description": "Our payment system is fully secured to protect your personal and financial information."
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Our professional support team is available anytime to answer your questions."
+      }
+    }
+  }
+
+
+
+
+
+
+  
+
+}

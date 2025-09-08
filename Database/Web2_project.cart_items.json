@@ -1,0 +1,123 @@
+[{
+  "_id": {
+    "$oid": "688b9fbf08bd24e9d3de4c36"
+  },
+  "cart_id": {
+    "$oid": "688ae0eab6340330eee6f735"
+  },
+  "flight_departure_id": {
+    "$oid": "688b677f6fb1715381b03985"
+  },
+  "flight_comeback_id": {
+    "$oid": "688b677f6fb1715381b03d7a"
+  },
+  "seat_class": {
+    "$oid": "684c0f64351062930ad28ff5"
+  },
+  "peopleQuantity": {
+    "adult": 1,
+    "child": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688b9fc108bd24e9d3de4c39"
+  },
+  "cart_id": {
+    "$oid": "688ae0eab6340330eee6f735"
+  },
+  "flight_departure_id": {
+    "$oid": "688b677f6fb1715381b03985"
+  },
+  "flight_comeback_id": {
+    "$oid": "688b677f6fb1715381b03d7a"
+  },
+  "seat_class": {
+    "$oid": "684c0f64351062930ad28ff5"
+  },
+  "peopleQuantity": {
+    "adult": 1,
+    "child": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688b9fc208bd24e9d3de4c3c"
+  },
+  "cart_id": {
+    "$oid": "688ae0eab6340330eee6f735"
+  },
+  "flight_departure_id": {
+    "$oid": "688b677f6fb1715381b03985"
+  },
+  "flight_comeback_id": {
+    "$oid": "688b677f6fb1715381b03d7a"
+  },
+  "seat_class": {
+    "$oid": "684c0f64351062930ad28ff5"
+  },
+  "peopleQuantity": {
+    "adult": 1,
+    "child": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688b9fe408bd24e9d3de4cbe"
+  },
+  "cart_id": {
+    "$oid": "688ae0eab6340330eee6f735"
+  },
+  "flight_departure_id": {
+    "$oid": "688b677f6fb1715381b046fb"
+  },
+  "seat_class": {
+    "$oid": "684c0f64351062930ad28ff5"
+  },
+  "peopleQuantity": {
+    "adult": 1,
+    "child": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688b9fec08bd24e9d3de4cc1"
+  },
+  "cart_id": {
+    "$oid": "688ae0eab6340330eee6f735"
+  },
+  "flight_departure_id": {
+    "$oid": "688b67806fb1715381b04a09"
+  },
+  "seat_class": {
+    "$oid": "684c0f64351062930ad28ff5"
+  },
+  "peopleQuantity": {
+    "adult": 1,
+    "child": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688dd4d4fa91d2b6e1c5957c"
+  },
+  "cart_id": {
+    "$oid": "688ae0eab6340330eee6f735"
+  },
+  "flight_departure_id": {
+    "$oid": "688b677f6fb1715381b03812"
+  },
+  "seat_class": {
+    "$oid": "684c0f64351062930ad28ff5"
+  },
+  "peopleQuantity": {
+    "adult": 1,
+    "child": 0
+  },
+  "__v": 0
+}]

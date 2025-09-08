@@ -1,0 +1,44 @@
+{
+  "type": "module",
+  "name": "Web2_project",
+  "version": "1.0.0",
+  "description": "Web2 project Nodejs + React",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --exec babel-node src/server.js",
+    "postinstall": "find node_modules/vnpay -type f -name '*.js' -exec sed -i -e \"s|dayjs/plugin/timezone\\(['\\\"]\\)|dayjs/plugin/timezone.js\\1|g\" -e \"s|dayjs/plugin/utc\\(['\\\"]\\)|dayjs/plugin/utc.js\\1|g\" {} +",
+    "start": "node src/server.js"
+  },
+  "author": "Ta Duc Manh",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "7.15.4",
+    "@babel/node": "7.15.4",
+    "@babel/preset-env": "7.15.4",
+    "axios": "^1.10.0",
+    "bcryptjs": "2.4.3",
+    "bluebird": "3.7.2",
+    "body-parser": "1.19.1",
+    "cloudinary": "^2.7.0",
+    "cookie-parser": "1.4.6",
+    "dotenv": "10.0.0",
+    "express": "4.17.2",
+    "express-session": "^1.18.1",
+    "firebase-admin": "^12.7.0",
+    "jsonwebtoken": "8.5.1",
+    "lodash": "4.17.21",
+    "moment-timezone": "^0.6.0",
+    "mongoose": "6.10.0",
+    "multer": "^2.0.2",
+    "node-fetch": "^2.7.0",
+    "nodemailer": "^7.0.5",
+    "nodemon": "2.0.15",
+    "passport": "^0.7.0",
+    "redis": "^3.1.2",
+    "vnpay": "^2.4.0"
+  },
+    "engines": {
+    "node": "14.17.0"
+  }
+}

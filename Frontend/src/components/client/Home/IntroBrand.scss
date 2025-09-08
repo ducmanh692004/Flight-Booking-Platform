@@ -1,0 +1,27 @@
+.introduc-brand{
+    .detail-information{
+        display: flex;
+        gap: 2px;
+        
+        .title{
+            background-color: rgb(255, 254, 254);
+            box-shadow: 0 4px 8px rgba(0, 0, 0.3, 0.2);
+            .image-block{
+                height: 200px;
+
+                img{
+                    width: 100%;
+                    height: 100%;
+                    // background-color: green;
+                    object-fit: cover;
+                }
+            }
+
+            .detail-reason{
+                h6{
+                    font-size: 17px;
+                }
+            }
+        }
+    }
+}

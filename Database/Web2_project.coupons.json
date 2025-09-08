@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6851b8a9cacb505d8d515cf4"
+  },
+  "percent": 10,
+  "code": "BAYHEVIVU",
+  "maximum_discount": 200000,
+  "minimum_price": 2000000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6851b8a9cacb505d8d515cf5"
+  },
+  "percent": 10,
+  "code": "BAYTHAGAKHONGLOVEGIA",
+  "maximum_discount": 150000,
+  "minimum_price": 1000000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6851b8a9cacb505d8d515cf6"
+  },
+  "percent": 5,
+  "code": "BAYCUNGJETNOWNGAY",
+  "maximum_discount": 50000,
+  "minimum_price": 5000000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6851b8a9cacb505d8d515cf7"
+  },
+  "percent": 12,
+  "code": "BAYCAOBAYXA",
+  "maximum_discount": 700000,
+  "minimum_price": 10000000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6851b8a9cacb505d8d515cf8"
+  },
+  "percent": 5,
+  "code": "BAYVATANHUONGCUNGJETNOW",
+  "maximum_discount": 2000000,
+  "minimum_price": 20000000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6877bd2cb50c46c2553a70dd"
+  },
+  "percent": 0,
+  "code": "NGUOIMOI",
+  "maximum_discount": 100000,
+  "minimum_price": 0,
+  "__v": 0
+}]

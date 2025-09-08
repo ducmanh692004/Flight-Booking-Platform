@@ -1,0 +1,302 @@
+[{
+  "_id": {
+    "$oid": "6848a4b73d092ce61d7bb408"
+  },
+  "name": "admin",
+  "description": "Administrator control app",
+  "__v": 0,
+  "listRoles": [
+    {
+      "$oid": "6887366fe5d1f50ddc575e11"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e12"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e13"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e14"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e15"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e16"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e17"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e18"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e19"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e1a"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e1b"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e1c"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e1d"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e1e"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e1f"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e20"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e21"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e22"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e23"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e24"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e25"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e08"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e27"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e29"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e28"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e2b"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e2c"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e2d"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e2e"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e2f"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e30"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e31"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e32"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e33"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e34"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e35"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e36"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e37"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e38"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e39"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e3a"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e3b"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e26"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e2a"
+    },
+    {
+      "$oid": "6887a917e149b39647e6327c"
+    },
+    {
+      "$oid": "6887a904e149b39647e63278"
+    },
+    {
+      "$oid": "6887a92fe149b39647e63280"
+    },
+    {
+      "$oid": "6887a94de149b39647e63284"
+    },
+    {
+      "$oid": "6887a96ae149b39647e63288"
+    },
+    {
+      "$oid": "6887a97ae149b39647e6328c"
+    },
+    {
+      "$oid": "6887a995e149b39647e63290"
+    },
+    {
+      "$oid": "6887a9a6e149b39647e63294"
+    },
+    {
+      "$oid": "6887a9c0e149b39647e63298"
+    },
+    {
+      "$oid": "6887e9ef14f8e441b18e30b0"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e04"
+    },
+    {
+      "$oid": "6889f9d4498280b56483a7fa"
+    },
+    {
+      "$oid": "688a059ddf64869b76b736e8"
+    },
+    {
+      "$oid": "688a0ffadf64869b76b737b9"
+    },
+    {
+      "$oid": "688af3f51703cac24cf7a981"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6848a4b73d092ce61d7bb409"
+  },
+  "name": "client",
+  "description": "Client in app",
+  "__v": 0,
+  "listRoles": [
+    {
+      "$oid": "6887366fe5d1f50ddc575dfb"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575dfa"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575df9"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575df8"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575df7"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575dfc"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575dfd"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575dfe"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575dff"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e00"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e01"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e02"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e03"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e04"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e05"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e06"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e07"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575df6"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e0a"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e0b"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e0c"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e08"
+    },
+    {
+      "$oid": "6887366fe5d1f50ddc575e09"
+    },
+    {
+      "$oid": "6887e9ef14f8e441b18e30b0"
+    },
+    {
+      "$oid": "6887eb05a1889c253a350087"
+    },
+    {
+      "$oid": "6887eb2aa1889c253a35008c"
+    },
+    {
+      "$oid": "6887eb42a1889c253a350095"
+    },
+    {
+      "$oid": "6889a3a09f08848a9a8ade27"
+    },
+    {
+      "$oid": "6889a58c9f08848a9a8adf1a"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68877977331a13ba6d0b985c"
+  },
+  "name": "bussiness",
+  "description": "business buy ticket",
+  "listRoles": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887eb60a1889c253a35009e"
+  },
+  "name": "lllllll",
+  "description": ",,,",
+  "listRoles": [],
+  "__v": 0
+}]

@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "688e5f386ec80a724d02feb7"
+  },
+  "userId": {
+    "$oid": "688ae0eab6340330eee6f733"
+  },
+  "content": "Please help me ",
+  "emailContact": "manhtdgch220180@fpt.edu.vn",
+  "createdAt": {
+    "$date": "2025-08-02T18:55:52.142Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688e5f5c6ec80a724d02fec2"
+  },
+  "userId": null,
+  "content": "can you contact with me 09872342332",
+  "emailContact": "manhtdgch220180@fptt.edu.vn",
+  "createdAt": {
+    "$date": "2025-08-02T18:56:28.283Z"
+  },
+  "__v": 0
+}]

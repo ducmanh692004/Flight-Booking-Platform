@@ -1,0 +1,141 @@
+[{
+  "_id": {
+    "$oid": "684bfd96dec2fba50524f4fe"
+  },
+  "name": "Wifi miễn phí",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bfd96dec2fba50524f4ff"
+  },
+  "name": "Suất ăn miễn phí",
+  "__v": 0,
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "684bfd96dec2fba50524f500"
+  },
+  "name": "Giải trí trên máy bay",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bfd96dec2fba50524f501"
+  },
+  "name": "Cổng sạc thiết bị",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bfd96dec2fba50524f502"
+  },
+  "name": "Ghế ngả lưng thoải mái",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bfd96dec2fba50524f503"
+  },
+  "name": "Hành lý ký gửi miễn phí",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bfd96dec2fba50524f504"
+  },
+  "name": "Ưu tiên lên máy bay",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bfd96dec2fba50524f505"
+  },
+  "name": "Sảnh chờ VIP",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bfd96dec2fba50524f506"
+  },
+  "name": "Khăn nóng",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bfd96dec2fba50524f507"
+  },
+  "name": "Đồ uống miễn phí",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bfd96dec2fba50524f508"
+  },
+  "name": "Tai nghe chống ồn",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bfd96dec2fba50524f509"
+  },
+  "name": "Chăn và gối",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bfd96dec2fba50524f50a"
+  },
+  "name": "Kết nối Bluetooth",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bfd96dec2fba50524f50b"
+  },
+  "name": "TV cá nhân",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bfd96dec2fba50524f50c"
+  },
+  "name": "Khay bàn ăn riêng",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bfd96dec2fba50524f50d"
+  },
+  "name": "Rèm che ánh sáng",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bfd96dec2fba50524f50e"
+  },
+  "name": "Phòng tắm riêng",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bfd96dec2fba50524f50f"
+  },
+  "name": "Giường nằm",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bfd96dec2fba50524f510"
+  },
+  "name": "Dịch vụ gọi tiếp viên",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bfd96dec2fba50524f511"
+  },
+  "name": "Màn hình cảm ứng",
+  "__v": 0
+}]
